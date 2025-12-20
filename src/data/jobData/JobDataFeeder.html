@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internship Object Generator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        h1 {
+            color: #333;
+            font-size: 24px;
+        }
+
+        .id-control {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .id-control label {
+            font-weight: 600;
+            color: #555;
+        }
+
+        .id-control input {
+            width: 80px;
+            padding: 8px 12px;
+            border: 2px solid #ddd;
+            border-radius: 6px;
+            font-size: 16px;
+            text-align: center;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 6px;
+            color: #555;
+            font-weight: 500;
+            font-size: 14px;
+        }
+
+        input, textarea {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 6px;
+            font-size: 14px;
+            transition: border-color 0.3s;
+        }
+
+        input:focus, textarea:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        textarea {
+            resize: vertical;
+            min-height: 120px;
+            font-family: inherit;
+        }
+
+        .row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+            margin-top: 25px;
+        }
+
+        button {
+            flex: 1;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 6px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .generate-btn {
+            background: #667eea;
+            color: white;
+        }
+
+        .generate-btn:hover {
+            background: #5568d3;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3);
+        }
+
+        .copy-btn {
+            background: #10b981;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .copy-btn:hover {
+            background: #059669;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(16, 185, 129, 0.3);
+        }
+
+        .copy-btn.copied {
+            background: #059669;
+        }
+
+        .output {
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 20px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            line-height: 1.6;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .output:empty {
+            display: none;
+        }
+
+        @media (max-width: 600px) {
+            .row {
+                grid-template-columns: 1fr;
+            }
+            
+            .header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="header">
+                <h1>Internship Object Generator</h1>
+                <div class="id-control">
+                    <label>Current ID:</label>
+                    <input type="number" id="idCounter" value="25">
+                </div>
+            </div>
+
+            <form id="internshipForm">
+                <div class="form-group">
+                    <label>Company Name</label>
+                    <input type="text" id="company" placeholder="e.g., Alpha Data Tech">
+                </div>
+
+                <div class="form-group">
+                    <label>Role</label>
+                    <input type="text" id="role" placeholder="e.g., Web Developer Internship">
+                </div>
+
+                <div class="form-group">
+                    <label>Hiring Link</label>
+                    <input type="text" id="hiringLink" placeholder="https://...">
+                </div>
+
+                <div class="form-group">
+                    <label>Short Description</label>
+                    <input type="text" id="shortdescription" placeholder="e.g., Undergraduate Postgraduate Engineering Students">
+                </div>
+
+                <div class="row">
+                    <div class="form-group">
+                        <label>Location</label>
+                        <input type="text" id="location" placeholder="e.g., remote">
+                    </div>
+
+                    <div class="form-group">
+                        <label>Stipend</label>
+                        <input type="text" id="stipend" placeholder="e.g., ₹10,000/month">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Full Description</label>
+                    <textarea id="fulldescription" placeholder="Enter full job description (one point per line)"></textarea>
+                </div>
+
+                <div class="button-group">
+                    <button type="submit" class="generate-btn">Generate Object</button>
+                    <button type="button" class="copy-btn" id="copyBtn">
+                        <span id="copyIcon">📋</span>
+                        <span id="copyText">Copy</span>
+                    </button>
+                </div>
+            </form>
+        </div>
+
+        <div class="card">
+            <div class="output" id="output"></div>
+        </div>
+    </div>
+
+    <script>
+        let idCounter = 25;
+        let generatedObject = '';
+
+        const form = document.getElementById('internshipForm');
+        const idInput = document.getElementById('idCounter');
+        const output = document.getElementById('output');
+        const copyBtn = document.getElementById('copyBtn');
+        const copyText = document.getElementById('copyText');
+        const copyIcon = document.getElementById('copyIcon');
+
+        idInput.addEventListener('change', (e) => {
+            idCounter = parseInt(e.target.value) || 0;
+        });
+
+        function generateObject() {
+            const company = document.getElementById('company').value || 'N/A';
+            const role = document.getElementById('role').value || 'N/A';
+            const hiringLink = document.getElementById('hiringLink').value || 'N/A';
+            const shortdescription = document.getElementById('shortdescription').value || 'N/A';
+            const location = document.getElementById('location').value || 'N/A';
+            const stipend = document.getElementById('stipend').value || 'N/A';
+            const fulldescription = document.getElementById('fulldescription').value || 'N/A';
+
+            generatedObject = `,{
+  id: ${idCounter},
+  company: "${company}",
+  role: "${role}",
+  hiringLink: "${hiringLink}",
+  shortdescription: "${shortdescription}",
+  location: "${location}",
+  Stipend: "${stipend}",
+  fulldescription:\`
+${fulldescription}
+\`
+}`;
+
+            return generatedObject;
+        }
+
+        form.addEventListener('submit', (e) => {
+            e.preventDefault();
+            const obj = generateObject();
+            output.textContent = obj;
+            idCounter++;
+            idInput.value = idCounter;
+            
+            form.reset();
+        });
+
+        copyBtn.addEventListener('click', async () => {
+            if (!generatedObject) {
+                alert('Please generate an object first!');
+                return;
+            }
+
+            try {
+                await navigator.clipboard.writeText(generatedObject);
+                copyText.textContent = 'Copied!';
+                copyIcon.textContent = '✓';
+                copyBtn.classList.add('copied');
+
+                setTimeout(() => {
+                    copyText.textContent = 'Copy';
+                    copyIcon.textContent = '📋';
+                    copyBtn.classList.remove('copied');
+                }, 2000);
+            } catch (err) {
+                alert('Failed to copy to clipboard');
+            }
+        });
+    </script>
+</body>
+</html>
