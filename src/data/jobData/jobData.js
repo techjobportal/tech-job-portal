@@ -997,6 +997,35 @@ One or more areas of specialized knowledge balanced with general skills and know
 Experience in code review practices, and an understanding of how to safely update production systems
 Familiarity with navigating and managing work in large code bases
 `
+},{
+  id: 49,
+  company: "Deloitee",
+  role: "National Level Assessment Engineering track",
+  hiringLink: "https://usrecruiting.deloitte.com/nla-by-deloitte-usi2#subpage/engineering/content/357994815",
+  shortdescription: "N/A",
+  location: "India",
+  Stipend: "4LPA + Perks",
+  fulldescription:`
+The selected candidate will be registered as an Apprentice under the Apprenticeship Act through a tripartite agreement involving the professional, organization and an appropriate government agency
+The selected candidate will be on a 1-year probation from the joining date and employment may be confirmed based on successful completion of various trainings and performance evaluations against defined criteria and business requirements
+Excellent analytical and communication skills (written, verbal, and presentation)
+Ability to chart one’s career and build networks within the organization
+Ability to work both independently and as part of a team with professionals at all levels
+Ability to prioritize tasks and raise concerns/questions where appropriate
+Interact with the stakeholders on a regular basis through face-to-face interactions/video conferences/teleconferences/emails to understand the global client processes and business problems
+Suggest practical solutions and collaborate with stakeholders to implement the solution
+Possess knowledge of methodologies and understanding of process improvement initiatives
+Interact with Deloitte global clients' functional subject matter specialists
+Willingness to work in shifts
+Be quality-focused and demonstrate professionalism
+Ability to code in any programming language and good working knowledge of Microsoft Word, Excel, and PowerPoint
+Bachelor of Technology (B.Tech) or Bachelor of Engineering (B.E) with specialization in Computer Science; Allied Computer Science streams, Information Technology and all Circuital branches;
+Master of Technology (M.Tech) or Integrated Master of Technology (5 years iMtech) with specialization in Computer Science; Allied Computer Science streams and Information Technology 
+Master of Computer Application
+The year of graduation should be 2026
+Aggregate of 60% or equivalent CGPA and above in current degree with no active backlogs
+Your compensation will be – INR 4 Lakh plus variable benefits.
+`
 }
 ]
 
