@@ -244,7 +244,7 @@
         </div>
     </div>
 
-    <script>
+<script>
         let idCounter = 25;
         let generatedObject = '';
 
@@ -255,8 +255,27 @@
         const copyText = document.getElementById('copyText');
         const copyIcon = document.getElementById('copyIcon');
 
+        // Load saved counter and last generated object on page load
+        function loadSavedData() {
+            const savedCounter = localStorage.getItem('internship_counter');
+            if (savedCounter) {
+                idCounter = parseInt(savedCounter);
+                idInput.value = idCounter;
+            }
+
+            const lastObject = localStorage.getItem('last_generated_object');
+            if (lastObject) {
+                generatedObject = lastObject;
+                output.textContent = generatedObject;
+            }
+        }
+
+        // Load saved data when page loads
+        loadSavedData();
+
         idInput.addEventListener('change', (e) => {
             idCounter = parseInt(e.target.value) || 0;
+            localStorage.setItem('internship_counter', idCounter);
         });
 
         function generateObject() {
@@ -288,8 +307,14 @@ ${fulldescription}
             e.preventDefault();
             const obj = generateObject();
             output.textContent = obj;
+            
+            // Save the generated object
+            localStorage.setItem('last_generated_object', obj);
+            
+            // Increment and save counter
             idCounter++;
             idInput.value = idCounter;
+            localStorage.setItem('internship_counter', idCounter);
             
             form.reset();
         });

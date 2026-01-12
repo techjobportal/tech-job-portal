@@ -587,6 +587,215 @@ Multi-Agent Clinical Workflow Engine
 EMR-integrated Doctor Co-Pilot
 This role has high ownership: you will influence the technical architecture, agent design, hospital integrations, and product roadmap.
 `
+},{
+  id: 35,
+  company: "EY",
+  role: "Associate Software Engineer",
+  hiringLink: "https://eyglobal.yello.co/jobs/RLhVs9hFL5hoAWhD52bJDA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+  shortdescription: "N/A",
+  location: "Banglore",
+  Stipend: "N/A",
+  fulldescription:`
+Behavioral Competencies:
+
+Adaptive to team and fosters collaborative approach
+Innovative approach to the project, when required
+Shows passion and curiosity, desire to learn and can think digital
+Agile mindset and ability to multi-task
+Must have an eye for detail
+
+Skills needed: •
+
+Should have understanding and/or experience of software development best practices and software development life cycle
+Understanding of one/more programming languages such as Java/ .Net/
+Python, data analytics or databases such as SQL/ Oracle/ Teradata etc.
+Internship in a relevant technology domain will be an added advantage
+
+Qualification:
+
+BE - B. Tech / (IT/ Computer Science/ Circuit branches)
+Should have secured 60% and above
+No active Backlogs
+
+`
+},{
+  id: 36,
+  company: "Calix",
+  role: "Graduate Trainee",
+  hiringLink: "https://calix.wd1.myworkdayjobs.com/ExternalInternational/job/Bangalore/Graduate-Trainee_R-11245",
+  shortdescription: "N/A",
+  location: "Banglore",
+  Stipend: "N/A",
+  fulldescription:`
+Responsibilities:
+
+Collaborate with team members to gather and analyze requirements.
+Assist in the design and development of scalable and reliable data pipelines.
+Work with big data technologies such as Hadoop, Spark, Kafka, AWS/GCP.
+Clean, transform, and aggregate data from various sources into usable formats.
+Develop and maintain data processing pipelines for large datasets.
+Monitor and troubleshoot data pipeline performance and reliability.
+Document processes and prcedures for internal teams.
+Qualifications:
+
+Graduated in 2025 / 2024 with BE / BTech in Computer Science, Software Engineering, or a related field.
+Familiar with data engineering concepts and technologies such as Hadoop, Apache Spark, Presto, Dataflow, DataStream and databases such as MYSQL or PostgreSWL / Alloy DB
+Strong knowledge of databases (SQL/NoSQL) and querying techniques.
+Strong foundation in programming languages like scala, Java or Python.
+Understanding of databases (SQL and NoSQL) and data warehousing solutions like Google BigQuery.
+Familiar with cloud technologies such as AWS, Azure, or GCP
+Strong problem-solving and analytical skills.
+Eagerness to learn and adapt to new technologies in the data domain.
+Must understand basic computer programming concepts, data structures and object-oriented programming.
+Familiar with version control systems (e.g., Git) and CI/CD pipelines.
+Able to work independently and in a team environment.
+Strong communication skills with the ability to effectively communicate in a virtual environment.
+`
+},{
+  id: 37,
+  company: "Bharatrohan",
+  role: " Software Developer Intern",
+  hiringLink: "https://www.naukri.com/job-listings-software-developer-intern-bharat-rohan-airborne-innovations-private-limited-gurugram-0-to-1-years-080126500416",
+  shortdescription: "N/A",
+  location: "Gurugram",
+  Stipend: "N/A",
+  fulldescription:`
+Key Responsibilities:
+Assist in the design, development, and testing of software applications.
+Collaborate with team members to understand project requirements and deliver
+features.
+Write clean, well-documented, and reusable code.
+Participate in debugging, troubleshooting, and fixing issues in the codebase.
+Learn and apply best practices in software development.
+
+Qualifications
+Education:
+Bachelor s or Master s degree in Computer Science, Engineering, or a related field.
+Technical Skills :
+Proficiency in JavaScript and understanding of ES6+ features.
+Familiarity with the MERN Stack (MongoDB, Express.js, React.js, Node.js).
+Basic understanding of RESTful APIs and integration techniques.
+Basics of backend development using Node.js and Express.js.
+Basic knowledge of MongoDB or other NoSQL databases.
+Version control using Git and collaboration on platforms like GitHub or GitLab.
+Willingness to learn new tools, technologies, and frameworks quickly.
+Strong problem-solving skills and a proactive approach to development tasks.
+
+Benefits
+Contribute to code reviews and team meetings.
+Hands-on experience with modern technologies and real-world projects.
+Mentorship and guidance from experienced software developers.
+Possibility of a full-time job offer based on performance.
+`
+},{
+  id: 38,
+  company: "Zoho",
+  role: "QA Engineer",
+  hiringLink: "https://unstop.com/o/1wth0TR?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  shortdescription: "N/A",
+  location: "Coimbatore, Madurai, Salem, Tirunelveli",
+  Stipend: "Not Disclosed",
+  fulldescription:`
+Conduct back-end testing, and validate information as it flows through the system.
+Assist developers, support reps, and product managers in debugging issues.
+Re-test and verify the bugs/issues that have been fixed.
+Experience in manual and automation testing.
+Knowledge of Java Programming (data types, variables, operators, flow control statements, methods (built-in as well as user-defined), Exception handling, File Handling, Database Operations, and OOPS concepts.
+Experience in MySQL/PgSQL.
+Experience in Selenium and Jmeter.
+`
+},{
+  id: 39,
+  company: "Software Engineer",
+  role: "Ericsson",
+  hiringLink: "https://unstop.com/o/TtRgA92?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  shortdescription: "N/A",
+  location: "Gurgaon",
+  Stipend: " Not Disclosed",
+  fulldescription:`
+Work with TMF Forum APIs for catalog querying, configuration, and integration.
+Configure products, update catalog items, and manage lifecycle changes using ACLT Tool.
+Understand ECM database schema and table relationships to execute validations and troubleshooting queries.
+Create and maintain catalog rules, hierarchies, and info tables to meet business requirements.
+Ensure smooth integration of ECM catalog updates with charging and billing systems, validating end-to-end product activation and rating.
+Troubleshoot BAU catalog issues by checking application logs, database entries, and API responses.
+Collaborate with cross-functional teams including product, charging, billing, and order management to ensure accuracy and timely delivery of catalog changes.
+Requirements:
+
+Bachelor’s degree in IT, Telecommunications, or related field.
+Proven experience in Ericsson Catalogue Manager product operations.
+Strong knowledge of TMF API specifications for catalog.
+Proficiency with ACLT tool for product configuration.
+Experience with troubleshooting using SQL and log analysis.
+Familiarity with Kubernetes (kubectl) commands.
+Understanding of telecom charging, billing flows, and product hierarchy best practices.
+`
+},{
+  id: 40,
+  company: "N/A",
+  role: "Software Development Engineer",
+  hiringLink: "https://www.achnet.com/business/5d417350709d29c84098c3db/public/careers/696009f78c57ab0f2b84f128?type=default&uid=696009f78c57ab0f2b84f128&mod=jobs",
+  shortdescription: "N/A",
+  location: "Bengaluru ",
+  Stipend: "N/A",
+  fulldescription:`
+Achnet Technologies Inc is looking for Engineers who can build client-side (front-end) logic and have the understanding of server-side (back-end) apart from building and maintaining its Machine Learning Stack.
+
+Responsibilities:
+
+1) Machine Learning and Artificial Intelligence modules Based on Visual, Audio and Text based models.
+2) Build reusable code and libraries for future use
+3) Ensure the technical feasibility of UI/UX designs
+4) Optimize applications for maximum speed and scalability
+5) Assure that all user input is validated before submitting to back-end services
+6) Collaborate with other team members and stakeholders
+7) Develop new user-facing features
+Must Have Skills
+DATA STRUCTURE
+OOPS
+ALGORITM
+ Good To Have Skills
+C #.
+.NET
+MONGODB
+JAVASCRIPT
+.NET CORE
+HTML
+CSS
+TYPESCRIPT
+`
+},{
+  id: 41,
+  company: "SocialAddress",
+  role: "Front End Developer",
+  hiringLink: "https://unstop.com/o/YfwT9Uu?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  shortdescription: "N/A",
+  location: "Bengaluru",
+  Stipend: "N/A",
+  fulldescription:`
+Key Responsibilities:
+
+Design and build responsive, production-ready user interfaces using React and Tailwind CSS
+Translate designs, wireframes, and ideas into clean, functional frontend code
+Ensure consistent UI/UX across devices, screen sizes, and browsers
+Build reusable components and follow scalable frontend architecture practices
+Collaborate closely with backend engineers to integrate APIs and data flows
+Maintain clean, readable, and maintainable codebases
+Optimize frontend performance and loading experience
+Iterate quickly based on feedback and product requirements
+Take ownership of assigned features end-to-end in a startup environment
+Qualifications:
+
+Bachelor’s degree in Computer Science, Engineering, or a related field (or currently pursuing)
+Good working knowledge of React.js and component-based development
+Experience using Tailwind CSS for styling
+Strong understanding of HTML, CSS, and JavaScript
+Solid grasp of responsive design principles
+Good eye for design, spacing, typography, and usability
+Familiarity with Git and version control workflows
+Ability to learn fast and work independently
+Comfortable working in a high-speed startup setup
+`
 }
 ]
 
