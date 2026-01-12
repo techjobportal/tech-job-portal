@@ -34,7 +34,8 @@ import nodeDeployment from '../../assets/0-100node.js.png';
 import node40Interview from '../../assets/40+ node js.png';
 import resumeTips from '../../assets/resumetips.png';
 import hremails from '../../assets/hremails.png';
-import systemDesgin from '../../assets/systemDesign.png';
+
+import systemDesign from '../../assets/systemDesign.png';
 
 const resourceData = [
   {
@@ -317,12 +318,12 @@ const resourceData = [
     image: node40Interview
   },
   {
-    id: 34,
+    id: 35,
     title: "System Desgin Handbook 70+ pages",
     description: "Essential System Desgin questions with detailed explanations",
     price: "₹19",
     link: "https://topmate.io/meet_g/1891515",
-    image: systemDesgin
+    image: systemDesign
   }
 ];
 
