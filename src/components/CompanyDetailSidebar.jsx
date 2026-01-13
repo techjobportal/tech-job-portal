@@ -1,8 +1,29 @@
-import React from 'react'
+import React, { useMemo } from 'react'
 import { Link } from 'react-router-dom'
-import PromoData from '../data/resourceData/promoData'
+import ResourcesData from '../data/resourceData/resourceData'
 
 const CompanyDetailSidebar = () => {
+  const shuffledData = useMemo(() => {
+    // Find item with id 34
+    const firstItem = ResourcesData.find(item => item.id === 34)
+    
+    // Get all other items
+    const otherItems = ResourcesData.filter(item => item.id !== 34)
+    
+    // Shuffle other items using Fisher-Yates algorithm
+    const shuffled = [...otherItems]
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+    }
+    
+    // Take only 13 items from shuffled (since we'll add id 34 as first)
+    const limitedShuffled = shuffled.slice(0, 13)
+    
+    // Return with id 34 first (if it exists), followed by 13 shuffled items
+    return firstItem ? [firstItem, ...limitedShuffled] : limitedShuffled
+  }, [])
+
   return (
     <div className="w-full lg:w-80 flex-shrink-0">
       <div className="bg-white rounded-lg shadow-md p-6 sticky top-4">
@@ -11,7 +32,7 @@ const CompanyDetailSidebar = () => {
         </h3>
 
         <div className="space-y-3">
-          {PromoData.map((item) => (
+          {shuffledData.map((item) => (
             <Link
               key={item.id}
               to={item.link}
@@ -23,7 +44,7 @@ const CompanyDetailSidebar = () => {
               <img
                 src={item.image}
                 alt={item.title}
-                className="w-10 h-10 object-contain"
+                className="w-16 h-16 object-contain rounded-md"
               />
 
               {/* Title */}
