@@ -1453,6 +1453,138 @@ Hiring Process
 1 Technical Interview
 1 Culture Interview
 `
+},{
+  id: 64,
+  company: "Ageit Endorse India Technology",
+  role: "Full Stack Developer",
+  hiringLink: "https://www.godigiinfotech.com/job-detail/full-stack-developer/270",
+  location: "Pune",
+  Stipend: "N/A",
+  fulldescription:`
+As a Full Stack Developer at Ageit Endorse India Technology, you will have the opportunity to work on cutting-edge projects and collaborate with a dynamic team of tech enthusiasts. If you are proficient in HTML 5, CSS, React, JavaScript, and Redux, we want you to join us in revolutionizing the tech industry.
+
+ Designing and developing efficient and scalable web applications using the latest technologies.
+Collaborating with the design and product teams to implement user-friendly interfaces.
+Optimizing web applications for maximum speed and scalability.
+Writing clean and maintainable code that adheres to industry best practices.
+Troubleshooting and debugging issues to ensure seamless functionality.
+Staying up-to-date with the latest trends and technologies in web development.
+Contributing to team discussions and sharing innovative ideas to drive the company forward.
+If you are a passionate and creative developer looking to make a mark in the tech world, apply now and take your career to the next level with Ageit Endorse India Technology!
+Java, HTML 5, CSS 3, Java Script, Bootstrap 4, MySql, Github, Reactjs , Advance Javascript, Node.js, Git,
+Qualification: Any Graduate /Any Post-graduate
+`
+},{
+  id: 65,
+  company: "Reaidy.io",
+  role: "MERN Stack Developer",
+  hiringLink: "https://www.reaidy.io/job/695fb5836afeda4aa041824d",
+  location: "Work From Office",
+  Stipend: "₹3.5L-8.0L P.A",
+  fulldescription:`
+We are looking for enthusiastic and talented MERN Stack Developers to join our team. This is a fantastic opportunity for fresh graduates passionate about web development to kickstart their careers in a dynamic, fast-paced environment. You will work on developing, testing, and maintaining web applications using MongoDB, Express.js, React, and Node.js.
+
+The role is full-time and based in-office at one of our locations in Visakhapatnam, Hyderabad, Bengaluru, or Chennai.
+
+Key Responsibilities
+Develop and maintain scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js).
+Collaborate with cross-functional teams to define, design, and ship new features.
+Write clean, maintainable, and efficient code following best practices.
+Debug and resolve technical issues to ensure smooth application performance.
+Participate in code reviews to maintain code quality and share knowledge with peers.
+Stay updated with emerging technologies and incorporate them into projects when relevant.
+Required Skills & Qualifications
+Education: B.Tech in Computer Science or related field.
+Skills:Proficiency in MongoDB, Express.js, React, and Node.js.
+Understanding of RESTful APIs and web services.
+Basic knowledge of version control systems like Git.
+Strong problem-solving and analytical skills.
+Ability to work independently and collaboratively in a team environment.
+Compensation
+This is a paid position with a competitive salary range of ₹3,50,000 to ₹8,00,000 per year, depending on skills and experience.
+
+Location
+The role is work-from-office and is available in the following locations:
+
+Visakhapatnam
+Hyderabad
+Bengaluru
+Chennai
+Application Process
+If you are passionate about web development and meet the above qualifications, we encourage you to apply. Shortlisted candidates will undergo an assessment process, which may include technical interviews and coding tests to evaluate your skills and suitability for the role.
+
+We look forward to welcoming you to our team and helping you grow your career as a MERN Stack Developer!
+`
+},{
+  id: 66,
+  company: "Innovexis ",
+  role: "Web Development Intern",
+  hiringLink: "https://careerspage.io/innovexis/web-development-intern-in108",
+  location: "Remote",
+  Stipend: " ₹20,000 to ₹25,000 per month",
+  fulldescription:`
+As a Web Development Intern, you will work closely with experienced developers, designers, and product teams in a collaborative remote environment to develop user-friendly, responsive, and scalable web solutions. This role provides exposure to real-world projects and modern web technologies while contributing to meaningful educational initiatives.
+Assist in designing, developing, and maintaining web applications and websites
+Write clean, efficient, and well-documented code
+Support the development of responsive and user-friendly interfaces
+Collaborate remotely with designers to implement UI/UX designs
+Debug and troubleshoot issues across different browsers and devices
+Integrate APIs and backend services with frontend components
+Participate in virtual code reviews and team discussions
+Assist in website testing, deployment, and maintenance
+Ensure performance, security, and scalability best practices
+Pursuing a degree in Computer Science, Information Technology, or a related field
+Basic knowledge of HTML, CSS, and JavaScript
+Familiarity with frontend frameworks/libraries (React, Angular, or Vue is a plus)
+Basic understanding of backend technologies (Node.js, PHP, or Python preferred)
+Knowledge of databases such as MySQL or MongoDB is an advantage
+Understanding of responsive design and cross-browser compatibility
+Strong problem-solving and logical thinking skills
+Ability to work independently and collaboratively in a remote team environment
+Good communication and time management skills
+`
+},{
+  id: 67,
+  company: "Shell",
+  role: "Shell Graduate Programme 2026",
+  hiringLink: "https://shell.wd3.myworkdayjobs.com/en-GB/ShellCareers/job/Bangalore-RMZ-ECO-WORLD/Shell-Graduate-Programme-2026---India_R182105-1",
+  location: "Gurgaon, Bangalore, Mumbai, Taloja,",
+  Stipend: "N/A",
+  fulldescription:`
+Join us as a Graduate at Shell India where you will embark on a comprehensive 3-year programme designed to develop future leaders. 
+
+The role will be based in Bangalore, Gurgaon,Chennai,Mumbai,. Start dates for the Graduate Programme are May & August 2026. 
+
+The Shell Graduate Programme equips you with the essential tools to enhance your leadership skills and achieve your full potential through a combination of on-the-job training, formal education, job rotations, and personalized coaching. 
+
+
+What you’ll be doing 
+
+You will showcase your capacity to analyse situations and propose purposeful solutions that align with the company’s strategic goals - adaptability to changing environments, learner mindset, drive to deliver results - and collaborate and nurture relationships as you work effectively with a diverse team.  
+
+You will work with experienced colleagues and will share your unique perspective and fresh ideas on how to tackle energy-related challenges. Our inclusive and collaborative culture will provide you with the support you need to grow your skills as you work on meaningful projects with exciting responsibilities right from the start. 
+
+Shell is a diversified energy company in India with 13,000 employees, and presence in Integrated Gas, Downstream, Power, Renewable and Upstream. Additionally, we have deep capabilities in R&D, digitalisation, and business operations. 
+
+What you bring 
+
+We are looking for a candidate who thrives on new challenges and embraces innovation. You should be confident in your ability to absorb information, analyze problems, make objective decisions, and generate original ideas. The ideal candidate will possess the drive and resilience to achieve goals, the flexibility to collaborate effectively within a team, and the credibility to influence others. Being open to alternative perspectives and views is essential, using them to refine ideas and outcomes. 
+Eligibility 
+
+To be eligible for the Shell Graduate Programme : 
+
+You are required to have graduated prior to your first day at Shell 
+
+You must be pursuing or have completed a Bachelor’s/Master's or PhD degree. 
+
+You need to have less than three years of professional experience. 
+
+Strong communication and interpersonal skills.  
+
+Have valid work authorization for India.  
+
+ 
+`
 }
 ]
 
