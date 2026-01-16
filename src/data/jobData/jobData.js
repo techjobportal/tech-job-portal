@@ -1585,6 +1585,41 @@ Have valid work authorization for India. 
 
  
 `
+},{
+  id: 68,
+  company: "Zorvyn ",
+  role: "SDE Intern",
+  hiringLink: "https://career.zorvyn.io/careers/WFRKL9",
+  location: "Remote",
+  Stipend: "40000",
+  fulldescription:`
+Job Description
+Zorvyn is looking for highly motivated SDE Interns who are eager to apply strong fundamentals, learn modern engineering practices, and collaborate with cross functional teams to build secure, scalable, and high performance products. The role offers hands on experience across backend systems, financial architecture development, and infrastructure components. You will work under experienced engineers, solve real technical challenges, and contribute to production grade features serving clients across the globe.
+
+Responsibilities
+Collaborate with senior developers to design, develop, and test software modules for live systems.
+Write clean, maintainable, and well documented code that aligns with team guidelines.
+Participate in code reviews, debugging, and iterative problem solving activities.
+Assist in building APIs, microservices, and automation components for financial workflows.
+Research and implement solutions to enhance performance, reliability, and security.
+Work with product and QA teams to validate features, identify issues, and propose improvements.
+Learn and apply best practices in version control, unit testing, and continuous integration.
+Requirements
+Knowledge of programming fundamentals and Data Structures and Algorithms.
+Proficiency in at least one language such as C, C++, or Java.
+Good understanding of object oriented concepts, problem solving, and debugging.
+Familiarity with Git or any version control tool, and willingness to learn modern workflows.
+Ability to quickly pick up new concepts, tools, and technologies with curiosity and intent.
+Excellent communication skills, logical thinking, and a collaborative mindset.
+Prior project, internship, or personal development work will be appreciated.
+Perks & Benefits
+Monthly stipend of 40,000 INR with structured mentorship and guided onboarding.
+Opportunity to work closely with experienced engineers on production grade systems.
+Access to technical learning resources, internal workshops, and knowledge sessions.
+A remote first culture that supports flexibility and autonomy in work delivery.
+Real world exposure to scalable systems in the FinTech domain.
+Performance linked Pre Placement Offer of up to INR 14 LPA annually.
+`
 }
 ]
 
