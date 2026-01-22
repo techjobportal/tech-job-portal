@@ -1519,7 +1519,7 @@ We look forward to welcoming you to our team and helping you grow your career as
   id: 66,
   company: "Innovexis ",
   role: "Web Development Intern",
-  hiringLink: "https://careerspage.io/innovexis/web-development-intern-in108",
+  hiringLink: "https://careerspage.io/innovexis/web-development-intern-in111",
   location: "Remote",
   Stipend: " ₹20,000 to ₹25,000 per month",
   fulldescription:`
@@ -1934,6 +1934,308 @@ Understanding CSS preprocessors like SASS, LESS, or any other frameworks would b
 Excellent analytical and logical thinking.
 Experience in working with version control systems like Git.
 Experience in publishing apps in different stores.
+`
+},{
+  id: 76,
+  company: "Innovexis",
+  role: "Data Analyst Intern",
+  hiringLink: "https://careerspage.io/innovexis/data-analyst-intern-in112",
+  location: "Remote",
+  Stipend: "₹20,000 to ₹25,000 per month",
+  fulldescription:`
+Innovexis is excited to announce an opening for a Data Analyst Intern to join our team in Bengaluru. This on-site internship offers a unique opportunity for aspiring data professionals to gain hands-on experience in the Education Management industry, contributing to data-driven decision-making and insights that enhance our educational offerings.
+
+As a Data Analyst Intern, you will be involved in collecting, analyzing, and interpreting data to support various projects within the organization. You will work closely with experienced analysts and educators to understand data trends and provide valuable insights that will impact our strategic initiatives. This is an excellent opportunity to develop your analytical skills while contributing to meaningful projects in the education sector.
+
+We offer a competitive stipend ranging from ₹20,000 to ₹25,000 per month, along with mentorship and opportunities for professional development during your internship with us.
+Responsibilities
+Assist in collecting and organizing data from various sources
+Perform data analysis to identify trends and patterns
+Prepare reports and visualizations to present findings
+Support senior analysts in data-related projects
+Collaborate with cross-functional teams to gather requirements
+Participate in team meetings and contribute ideas
+Ensure data accuracy and integrity in all analyses
+Help in maintaining databases and data management processes
+Requirements
+Pursuing a degree in Data Science, Statistics, Mathematics, or a related field
+Strong analytical and problem-solving skills
+Familiarity with data analysis tools (e.g., Excel, SQL, R, Python)
+Ability to communicate findings effectively
+Detail-oriented with a commitment to accuracy
+Basic understanding of data visualization techniques
+Strong organizational and time management skills
+Ability to work collaboratively in a team environment
+`
+},{
+  id: 77,
+  company: "Innovexis",
+  role: "Machine Learning Intern",
+  hiringLink: "https://careerspage.io/innovexis/machine-learning-intern-in110",
+  location: "Remote",
+  Stipend: " ₹20,000 to ₹25,000 per month",
+  fulldescription:`
+Responsibilities
+Assist in collecting, cleaning, and preprocessing datasets for machine learning tasks
+Develop, train, and evaluate machine learning models
+Implement algorithms for classification, regression, and prediction problems
+Analyze model performance and optimize results
+Work with large datasets to extract meaningful insights
+Collaborate with cross-functional teams to understand project requirements
+Document models, experiments, and findings clearly
+Participate in team discussions, code reviews, and brainstorming sessions
+Support deployment and testing of ML models where applicable
+Requirements
+Pursuing a degree in Machine Learning, Data Science, Computer Science, AI, or a related field
+Strong understanding of machine learning concepts and algorithms
+Proficiency in Python
+Familiarity with ML libraries such as Scikit-learn, TensorFlow, or PyTorch
+Basic knowledge of data preprocessing, feature engineering, and model evaluation
+Ability to explain technical concepts clearly
+Strong analytical and problem-solving skills
+Detail-oriented with a focus on accuracy and performance
+Ability to work collaboratively in a fast-paced team environment
+`
+},{
+  id: 78,
+  company: "Rablo.In",
+  role: "Backend Development Internship",
+  hiringLink: "https://unstop.com/o/l8Drev9?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  location: "Work From Home",
+  Stipend: "N/A",
+  fulldescription:`
+We are seeking a motivated Backend Development Intern to join our team. This internship will provide you with hands-on experience in backend development and the opportunity to work on real-world projects remotely. You will collaborate with experienced developers and contribute to the design, development, and maintenance of our backend systems.
+
+Perks:
+
+Hands-on Experience: Work on real life projects from our company and partner ventures, gaining invaluable hands-on experience.
+Collaborative Teamwork: Join a team of highly skilled teammates from across the nation, fostering collaboration and cross functional learning.
+Diverse Sub-Teams:  Explore various sub teams such as UI/UX, Frontend, Backend, DevOps, HR, Market Research, Marketing, and Business Development.
+Corporate Experience: Operate within a structured corporate environment, engaging in different positions such as Team Leaders, Supervisors, Quality Auditors, and SPOCs.
+Mentorship and Guidance: Receive guidance and mentorship throughout the program, ensuring you have the necessary support to execute tasks successfully.
+Latest Technologies and Methodologies: Work with cutting-edge technologies, leveraging the latest methodologies to stay ahead in the industry.
+Flexibility in Working Hours: Enjoy flexible working hours, allowing you to manage your time efficiently.
+Task Based Approach: Engage in a task based approach, where you are assigned specific tasks to complete within given deadlines, enhancing your project management skills.
+Skill Enhancement: Develop and enhance your skills in your designated area of work, contributing to your professional growth and career advancement.
+Networking Opportunities: Connect with industry professionals, expanding your professional network and creating valuable connections for future career prospects.
+Fulfilment of Project Requirements: The company ensures all project requirements are met, providing you with the necessary resources and support to excel in your work.
+Recognition & Certification: The Company rewards Completion certificate to all the members who successfully completes their program and Letter of recommendation to the best performers.
+Responsibilities:
+
+Collaborate with the development team to design and develop scalable and efficient backend systems
+Assist in coding, testing, debugging, and documenting backend applications
+Participate in code reviews and provide constructive feedback to improve code quality
+Contribute to the optimization and performance tuning of backend applications
+Collaborate with cross-functional teams to understand project requirements and translate them into technical solutions
+Assist in the integration of backend systems with frontend applications and third-party services
+Support the maintenance and enhancement of existing backend systems
+Stay updated with the latest trends and technologies in backend development
+Qualifications:
+
+Currently pursuing a degree in Computer Science, Software Engineering, or a related field
+Familiarity with web development frameworks and technologies Node.js
+Understanding of databases and experience with NoSQL databases
+Knowledge of RESTful API design principles
+Basic understanding of version control systems, such as Git
+Problem-solving skills and the ability to analyze and debug code
+Strong attention to detail and the ability to work in a collaborative team environment
+Excellent communication and interpersonal skills
+Note: This is an unpaid internship position. However, you will gain valuable hands-on experience, mentorship from experienced developers, and the opportunity to enhance your backend development skills. Upon successful completion of the internship, you will receive a certificate of completion. If you are passionate about backend development and eager to learn and grow in a remote work environment, we invite you to apply for this internship. 
+`
+},{
+  id: 79,
+  company: "Flutter Developer Internship",
+  role: "Go India Advisors",
+  hiringLink: "https://unstop.com/o/StwkyoI?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  location: "Work From Home",
+  Stipend: " ₹15,000 to ₹20,000 per month",
+  fulldescription:`
+Requirements:
+
+1. Development Setup:
+
+Preferred to own a MacBook
+→ Required for iOS builds, testing, and App Store deployments
+Comfortable running multiple simulators/emulators (iOS + Android)
+2. Flutter & Mobile Experience:
+
+Strong experience with Flutter (Dart) for cross-platform app development
+Hands-on experience deploying apps to:
+
+Apple App Store
+Google Play Store
+Familiar with latest App Store & Play Store policies, guidelines, and compliance requirements
+Experience handling:
+
+App rejections & resubmissions
+Certificates, provisioning profiles, keystores, signing configs
+Versioning, builds, and release tracks
+3. Backend & API Knowledge (Strongly Preferred)
+
+Solid backend fundamentals
+Prior experience building or integrating REST APIs
+Bonus points if you’ve worked with:
+Python (FastAPI )
+SQL / relational databases
+Skills and Qualifications:
+
+Proficiency in mobile application development for either iOS or Android platforms, or experience with cross-platform development frameworks.
+A keen eye for user interface (UI) and user experience (UX) design principles to create intuitive and engaging applications.
+Eagerness to learn and adapt to new technologies and development methodologies within the mobile ecosystem.
+
+Responsibilities of the Intern:
+
+Design, develop, and maintain user-friendly mobile applications for iOS and Android platforms.
+Collaborate with product managers and designers to translate requirements into functional mobile features.
+Write clean, efficient, and well-documented code for new app features and enhancements.
+Implement and integrate APIs to support mobile application functionality.
+Conduct thorough testing of applications to identify and resolve bugs and performance issues.
+Optimize applications for maximum speed, scalability, and user experience.
+Stay updated with the latest mobile development trends, technologies, and best practices.
+Participate in code reviews to ensure code quality and share knowledge with the team.
+Assist in the deployment and release of mobile applications to app stores.
+Troubleshoot and debug issues reported by users or identified during testing.
+`
+},{
+  id: 80,
+  company: "Jar",
+  role: "DevOps Internship",
+  hiringLink: "https://unstop.com/o/Hi5AjSn?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  location: "N/A",
+  Stipend: "Not Disclosed",
+  fulldescription:`
+Jar is hiring for the role of Devops Internship!
+
+Responsibilities of the Intern:
+
+Work on designing, implementing, and maintaining secure, scalable, and highly available cloud infrastructure on AWS, GCP, and other relevant cloud platforms.
+Work on day-to-day operations and maintenance of Kafka clusters, focusing on reliability, performance, and scalability.
+Work on managing containerized applications and microservices, including deployments and service orchestration using Kubernetes (preferably EKS, with exposure to AKS or GKE as a plus).
+Contribute to the development and maintenance of Continuous Integration and Continuous Delivery (CI/CD) pipelines.
+Collaborate closely with software engineers to understand infrastructure and deployment requirements.
+Work on provisioning, configuring, and maintaining AWS cloud resources.
+Follow configuration management standards and industry best practices under mentorship.
+Work on administering and troubleshooting Linux-based systems.
+Participate in diagnosing and resolving issues across multiple services and environments.
+Contribute to building and maintaining operational tools for deployment, monitoring, and analysis of cloud infrastructure.
+Work on infrastructure cost analysis and optimization initiatives.
+Learn and apply OpenTelemetry concepts to support observability, metrics, and tracing across the platform.
+Requirements:
+
+Currently pursuing or recently completed a degree in Computer Science, Information Technology, or a related field.
+Internship, academic, or personal project experience involving cloud platforms, Linux systems, or DevOps tooling.
+Basic understanding of cloud computing concepts, networking fundamentals, and distributed systems.
+Familiarity with Infrastructure as Code concepts; basic exposure to Terraform is a plus.
+Strong willingness to learn, good problem-solving skills, and the ability to work effectively in a collaborative environment.
+Exposure to Kubernetes concepts such as pods, services, deployments, and basic networking.
+Familiarity with Docker and container-based workflows.
+Basic scripting experience using Python or Shell.
+Awareness of distributed systems or NoSQL databases (e.g., Cassandra, Scylla).
+Introductory knowledge of observability, monitoring, or logging tools.
+`
+},{
+  id: 81,
+  company: "Werqlabs",
+  role: "UI UX Internship",
+  hiringLink: "https://unstop.com/o/cik4M87?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  location: "Navi Mumbai",
+  Stipend: "N/A",
+  fulldescription:`
+Werqlabs is hiring for the role of UI/UX Intern!
+
+Responsibilities of the Intern:
+
+Assist in creating wireframes, interactive prototypes, and design mockups in Figma to illustrate user flows and interface behaviors.
+Collaborate with developers, product managers, and senior designers to translate product requirements into seamless user experiences.
+Conduct user research and behavioral analysis (e.g., heatmaps, usage tracking) to support design decisions.
+Develop and maintain UI design systems, component libraries, and style guides for consistency across products.
+Support the creation of storyboards, moodboards, user journey maps, and documentation to communicate design concepts clearly.
+Participate in usability testing and integrate feedback into iterative design improvements.
+Work with accessibility principles and responsive layout practices to ensure designs are inclusive and device-agnostic.
+Stay updated on latest UI/UX trends, design tools, and frameworks.
+Requirements:
+
+Proficiency in Figma (mandatory); basic familiarity with Sketch or Adobe XD is a plus.
+Understanding of user-centered design, information architecture, and interaction design principles.
+Basic knowledge of HTML5, CSS3, and responsive design concepts (Flexbox, Grid) is a plus.
+Strong visualization and storytelling skills through journey mapping and prototyping.
+Excellent communication and collaboration abilities in a cross-functional team.
+A creative mindset balanced by analytical problem-solving and attention to usability.
+
+`
+},{
+  id: 82,
+  company: "Engineer's Cradle",
+  role: "UI UX Designing Internship",
+  hiringLink: "https://unstop.com/o/xPH4DrU?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  location: "Pune",
+  Stipend: "N/A",
+  fulldescription:`
+Responsibilities of the Intern:
+
+Conduct user research to understand user needs, behaviors, and goals.
+Create user personas, user flows, and wireframes to visualize design concepts.
+Design and prototype user interfaces (UI) for web and mobile applications.
+Develop high-fidelity mockups and interactive prototypes.
+Collaborate with cross-functional teams, including developers and product managers.
+Conduct usability testing and iterate on designs based on feedback.
+Ensure designs are consistent with brand guidelines and design systems.
+Stay up-to-date with the latest UI/UX trends and best practices.
+Contribute to design documentation and maintain a design library.
+Present design solutions and rationale to stakeholders.
+`
+},{
+  id: 83,
+  company: "SmartXaaS LLP",
+  role: "PHP Developer Internship",
+  hiringLink: "https://unstop.com/o/s6F8ZNi?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  location: "Noida",
+  Stipend: "N/A",
+  fulldescription:`
+SmartXaaS LLP is hiring for the role of PHP Developer Intern!
+
+Responsibilities of the Intern:
+
+Collaborate with the development team to assist in building and maintaining web applications using PHP and related technologies.
+Contribute to the development and integration of APIs.
+Participate in code debugging, optimization, and performance testing.
+Manage databases and write efficient queries.
+Assist in deploying and maintaining applications in cloud environments (AWS, DigitalOcean, etc.).
+Support cross-functional teams to ensure high-quality project delivery.
+Document technical processes and follow best coding practices.
+Requirements:
+
+Currently pursuing or recently completed a degree in Computer Science, Information Technology, or a related field.
+Basic knowledge of PHP (Core PHP & PHP 7+), HTML5, CSS3, JavaScript.
+Familiarity with MVC frameworks.
+Strong problem-solving and analytical skills.
+Good communication skills and team collaboration.
+Strong desire to learn and adapt in a fast-paced environment.
+Backend Development:
+PHP (Core PHP & PHP 7.2+)
+MVC Frameworks
+RESTful API Development & Integration
+Payment Gateway Integration (basic knowledge preferred)
+Frontend Development:
+HTML5, CSS3, JavaScript (ES6+), jQuery
+Frontend Frameworks (Bootstrap 3, 4, 5)
+Responsive Web Development & UI/UX basics
+Database Management:
+MySQL (basic database design & optimization)
+DevOps & Deployment (Exposure Preferred):
+Basic Linux/Unix commands
+Hosting environments (cPanel, DigitalOcean, AWS)
+Version control using Git, BitBucket
+Development: VSCode, XAMPP
+Task Runners & Build Tools: Composer
+API Testing: Postman
+Debugging: Sentry (exposure preferred)
+Device OS: Windows, Android, iOS
+Client Communication: Skype, Zoho Mail, GMail
+Task Management: Asana, ClickUp
+Team Cloud: GDrive, OneDrive, GKeep
+Team Communication: Slack, Microsoft Teams
+Team Meeting: GMeet, Skype
 `
 }
 ]
