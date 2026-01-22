@@ -1897,6 +1897,44 @@ Job Category: MERN Stack Developer
 Job Type: Full Time
 Job Location: BangaloreKA
 `
+},{
+  id: 75,
+  company: "Volopay",
+  role: "Frontend Developer Internship",
+  hiringLink: "https://unstop.com/o/6tol1n9?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  location: " Bengaluru",
+  Stipend: "N/A",
+  fulldescription:`
+Volopay is hiring for the role of Frontend Developer Internship!
+
+Responsibilities of the Intern:
+
+Work with the team across verticals to design an eye-catching and responsive user interface, and make the user experience on our platform simple and seamless.
+You will be involved in architecting and building the features, as well as coordinating with the teams responsible for other layers of the product infrastructure.
+Building a product is a highly collaborative effort, and a strong team player with a commitment to perfection is required.
+Always aim to optimize code.
+Work closely with product and developers to enhance the quality of existing products.
+Work closely with the business in managing day-to-day issues, and resolve user queries.
+Build a deep understanding of the domain.
+Identifying web-based user interactions.
+Translating designs and wireframes into high-quality code.
+Troubleshooting interface software and debugging application codes.
+Developing and implementing front-end architecture to support user interface concepts.
+Monitoring and improving front-end performance.
+Documenting application changes and developing updates.
+Requirements:
+
+0-1 year of experience.
+Available for a duration of 6 months in the office.
+Internship location: Bangalore, HSR Layout.
+Working proficiency in JavaScript, HTML, and CSS required.
+Knowledge of REST APIs.
+Detailed knowledge of JavaScript frameworks: React/ Vue
+Understanding CSS preprocessors like SASS, LESS, or any other frameworks would be a plus.
+Excellent analytical and logical thinking.
+Experience in working with version control systems like Git.
+Experience in publishing apps in different stores.
+`
 }
 ]
 
