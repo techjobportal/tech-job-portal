@@ -2527,6 +2527,49 @@ Any relevant tech background
 
 📌 Register calmly — your actual chance comes later.
 `
+},{
+  id: 90,
+  company: "Coursera",
+  role: "Associate Software Engineer",
+  hiringLink: "https://job-boards.greenhouse.io/coursera/jobs/5692355004",
+  location: "India",
+  Stipend: "N/A",
+  fulldescription:`
+We are looking for an enthusiastic entry-level Software Engineer to join our Internal Tools team at Coursera. This team builds high-leverage internal products that support our employees across functions such as content operations, learner support, finance, and legal to work more efficiently and improve how we run our business. As part of this team, you’ll work on critical backend operational workflows that support various business functions, including Engineering and Data. This role requires a process-oriented individual with exceptional attention to detail, strong organizational skills, and the ability to effectively manage multiple tasks simultaneously. 
+
+Key Responsibilities
+
+Engineering: Assist in building and improving web-based internal tools used by various teams at Coursera. Write clean, efficient, and maintainable code with support from your team.
+Operational Execution: Execute and manage high-volume, time-sensitive operational tasks and processes with exceptional attention to detail, ensuring accuracy and completeness across various systems.
+Workflow Support: Own the support, maintenance, and scaling of existing operational workflows, acting as a crucial functional bridge between business needs and engineering execution.
+Project Management & Process Improvement: Identify opportunities to enhance operational efficiency, document new and existing workflows clearly, and manage small to medium-sized internal projects aimed at optimization.
+Task Management: Demonstrate strong organizational skills and the ability to simultaneously work on several different tasks with competing deadlines and shifting priorities.
+Stakeholder Coordination: Collaborate effectively with cross-functional teams (e.g., Engineering, Enterprise, Content) to execute workflows, troubleshoot issues, and implement process changes.
+Continuous Learning: Learn and apply best practices for full-stack development, including front-end and back-end systems. Help maintain documentation, fix bugs, and test features to ensure quality.
+Qualifications
+
+Education:
+
+Bachelor’s degree in Computer Science, Engineering, or a related field 
+Skills & Experience:
+
+0-2 years of professional experience, ideally in a technical role and fast-paced operational environment.
+Strong foundation in programming concepts, data structures, and algorithms.
+Experience with at least one programming language such as Java, Python, or similar.
+Familiarity with web development technologies (HTML, CSS, JavaScript).
+Exposure to front-end frameworks like React, Angular, or Vue.js is a plus.
+Basic understanding of REST APIs or CRUD operations.
+Strong organizational skills and proven ability to manage time effectively and successfully simultaneously work on several different tasks with high attention to detail.
+Demonstrated aptitude and interest in technical operations, backend systems, and data handling.
+Excellent written and verbal communication skills with a proactive mindset.
+Why Join Us?
+
+Work with passionate teammates and supportive mentors.
+Solve real-world challenges that drive real impact across Coursera’s business functions.
+Grow your technical and professional skills through structured development opportunities.
+Be part of a mission-driven company transforming global access to education.
+
+`
 }
 ]
 
