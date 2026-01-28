@@ -2626,6 +2626,141 @@ Willingness to learn and adapt to new priorities, tools, and technologies in a f
 
 Intuit provides a competitive compensation package with a strong pay for performance rewards approach. This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.
 `
+},{
+  id: 92,
+  company: "Cepheid ",
+  role: "Cepheid Hiring Challenge 2026",
+  hiringLink: "https://www.hackerearth.com/challenges/new/competitive/cepheid-hiring-challenge-2026/",
+  location: "Online",
+  Stipend: "N/A",
+  fulldescription:`
+This position is for the Cepheid team located at Danaher India Development Center (IDC), Bangalore.
+Eligibility Criteria:
+
+ Years of Experience: 0 - 15 years
+
+ Skills: Java & Angular
+Challenge Format:
+
+1 programming question restricted to the Java language.
+
+1 basic programming question restricted to the Javascript language.
+Desired Skills:
+
+Critical thinking with good problem-solving skills
+
+Junior and senior developers with strong experience with Java, Spring, Angular 2.0
+
+Software architects good with building quality software designs and design thinking
+`
+},{
+  id: 93,
+  company: "Caastle Technology And Services",
+  role: "Software Engineer",
+  hiringLink: "https://app.wisowl.com/jobs/430448",
+  location: "Bengaluru, Delhi / NCR",
+  Stipend: "5 - 8 LPA",
+  fulldescription:`
+We are looking for a passionate Software Engineer (Fresher) who is eager to build scalable applications and learn modern technologies. You will work closely with senior engineers and product teams to develop, test, and deploy high-quality software solutions.
+
+Responsibilities
+
+Write clean, efficient, and well-documented code
+Assist in developing web or backend applications
+Debug and fix issues across applications
+Collaborate with cross-functional teams
+Participate in code reviews and learning sessions
+Required Skills
+
+Strong fundamentals in Data Structures & Algorithms
+Knowledge of Java / Python / JavaScript
+Basics of OOPs, DBMS, OS
+Familiarity with SQL / MySQL / PostgreSQL
+Understanding of Git/GitHub
+Good to Have
+
+Exposure to React / Node.js / Spring Boot
+Internship or academic project experience
+Education Qualification
+
+B.E / B.Tech in Computer Science, IT, Software Engineering, or related field
+MCA / M.Sc (Computer Science) can also apply
+Fresh graduates or up to 1 year experience
+
+`
+},{
+  id: 94,
+  company: "Vitelglobal Communications",
+  role: "Full Stack Developer Internship",
+  hiringLink: "https://tech-job-portal-zeta.vercel.app/company-details/Vitelglobal%20Communications/Full%20Stack%20Developer%20Internship",
+  email:"giribabu@pranathiss.com",
+  location: "Hyderabad",
+  Stipend: "Not disclosed",
+  fulldescription:`
+
+We are looking for a Full Stack Developer Intern with basic knowledge of frontend and backend technologies.
+
+
+Job Description:
+
+We are looking for a motivated Full Stack Intern who is eager to learn and contribute to real-world web application development. The intern will work closely with the engineering team to build, test, and maintain scalable web applications.
+
+Responsibilities
+
+Assist in developing and maintaining web applications using frontend and backend technologies
+Work with Websockets, REST APIs and integrate them with frontend components
+Support database design and CRUD operations
+Debug, test, and optimize application performance
+Collaborate with designers, backend, and QA teams
+Follow best coding practices and documentation standards
+Required Skills
+
+Basic knowledge of HTML, CSS, JavaScript
+Familiarity with at least one frontend framework (React / Angular / Vue)
+Basic understanding of backend technologies (Node.js / Django / Spring Boot / PHP)
+Knowledge of databases (MySQL / PostgreSQL / MongoDB)
+Understanding of Git and version control
+Strong problem-solving and learning mindset
+Good to Have
+
+Exposure to cloud platforms (AWS / Azure / GCP)
+Understanding of APIs, authentication, and basic security concepts
+Knowledge of Docker or CI/CD basics
+
+
+Interested can share your resume at giribabu@pranathiss.com
+
+
+
+
+Designation:Full Stack Developer Internship | HYD
+
+Location:Hyderabad
+
+Role:Full Stack Developer Internship | HYD
+`
+},{
+  id: 95,
+  company: "Altos technologies",
+  role: "Software Development Engineer",
+  hiringLink: "https://unstop.com/o/fb1Xsjd?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  location: "Remote",
+  Stipend: "N/A",
+  fulldescription:`
+Design, develop, and maintain robust backend systems and APIs.
+Write clean, efficient, and well-documented code in relevant programming languages.
+Collaborate with frontend developers and other stakeholders to integrate user-facing elements with server-side logic.
+Implement and optimize database solutions for scalability and performance.
+Troubleshoot, debug, and upgrade existing software components.
+Participate in code reviews to ensure code quality and adherence to best practices.
+Contribute to architectural discussions and technical decision-making.
+Stay updated with emerging technologies and industry trends to drive innovation.
+Ensure the security and performance of backend applications.
+Develop and maintain comprehensive technical documentation.
+Skills and Qualifications:
+
+Must Be a Graduated 
+`
 }
 ]
 

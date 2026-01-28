@@ -57,7 +57,7 @@ const resourceData = [
     id:34,
     title: "2000+ HR emails & Famous IT companies emails",
     description:"This includes combined 2000+ emails of HR and IT companies",
-    price:"FREE",
+    price:"₹29",
     link:"https://topmate.io/meet_g/1870617",
     image: hremails
   },{
