@@ -2966,7 +2966,58 @@ We recommend that you do not respond to spam emails/ messages you do not trust; 
 Cognizant takes its hiring practices seriously and appreciates you keeping the Company informed of any individuals posing as Cognizant employees who make false job offers using Cognizant’s name. We remind you that while recruiting employees, Cognizant will only communicate with you through authentic Cognizant email addresses and Cognizant will never extend any job offers to anyone based on an online application without first conducting an in-person, video, or telephone interview through verified encrypted channels. If any such mails purporting to come from Cognizant are received, we advise you to contact us at GenCHRComplianceIND@cognizant.com  
 To ascertain that you are receiving a genuine call from Cognizant, please ensure to collect the recruiter’s details (full name; official email id, employee ID & mobile number) during the call
 `
-}
+},{
+  id: 99,
+  company: "SuperProcure",
+  role: "SDE Intern",
+  hiringLink: "https://superprocure.freshteam.com/jobs/uSdkSAMq2Db1/software-development-engineer-intern",
+  location: "Remote, Kolkata",
+  Stipend: "15k and upto 9LPA",
+  fulldescription:`
+Job Summary :SuperProcure is looking for an enthusiastic software developer who will own the product modules and ensure delivery. Keep pace with growing client requirements, the candidate will perform development and assist the team in building a scalable, robust and high-performance application
+
+Job Responsibilities 
+
+Work closely with all stakeholders towards strategic planning and product roadmap development with delivery schedule. 
+
+Translate complex functional & technical requirements into detailed architecture, design, tasks and code. 
+
+Instill best practices for software development and documentation, assure designs meet requirements and deliver high-quality work. Building reusable code and libraries for future use. 
+
+Develop the database design/schema, front-end elements and back-end architecture. 
+
+Optimization of the application for maximum speed and scalability. 
+
+Drive team to achieve sprint goals and timely bug-free deliveries to delight customers.
+
+Required Professional and Technical Expertise:
+
+Strong analytical and problem-solving skills. Ability to deep dive into the problems in order to help your team make the right technical decisions. 
+
+B.Tech degree with CS background is preferred.
+
+Ability to switch between technologies and learn new skills on the go. 
+
+0-1 years of experience in Node JS, React JS, Socket.io, Relationship database, Dev Ops.
+
+Writing proficient SQL Queries, stored procedures. 
+
+Excellent written and oral communication skills
+
+Process oriented, Punctual, past experience with product companies
+
+
+Other Details:
+
+
+
+Engagement : Internship
+
+Stipend - 15k per month 
+
+CTC Offered : 7- 9 LPA 
+`
+} 
 ]
 
 export default companiesData
