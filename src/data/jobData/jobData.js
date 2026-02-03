@@ -3160,6 +3160,173 @@ Experience in debugging, diagnosing, and trouble-shooting complex, production so
 Detailed knowledge of modern software development life cycles including CI / CD
 You have the ability to operate across a broad and complex business unit with multiple stakeholders
 `
+},{
+  id: 105,
+  company: "Applyo",
+  role: "Full Stack Developer Internship",
+  hiringLink: "https://unstop.com/o/bVDTWgz?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+  location: " Hybrid / Ghaziabad Uttar Pradesh",
+  Stipend: "25000 - 40000",
+  fulldescription:`
+About The Project:
+itsmyscreen is an in-house digital platform to enable online listing, booking, and promotion of outdoor advertising media, including hoardings, billboards, and other OOH assets.
+The platform aims to streamline inventory management, bookings, and digital visibility for outdoor media through a structured, scalable, and performance-driven web solution.
+Job Overview:
+The Full-Stack Web Developer – Intern will support the development, optimization, and maintenance of the itsmyscreen platform.
+The role involves working across frontend development, backend services, relational databases, and SEO/GEO optimization, with a focus on outdoor advertising inventory and digital discoverability.
+This is a technical role offering hands-on exposure to real-world product development within the OOH advertising industry.
+Key Responsibilities:Frontend Development:
+Develop and maintain responsive web interfaces using Next.js.
+Implement reusable UI components for listings, bookings, and dashboards.
+Ensure performance optimization and cross-browser compatibility.
+Backend Development & APIs:
+Build and optimize efficient backend services to support:
+Hoarding and billboard listings
+Booking workflows
+User and vendor management
+Develop and integrate RESTful APIs.
+Ensure secure, scalable, and maintainable backend architecture.
+Database Design & Management:
+Design and manage relational databases for structured data such as:
+Media inventories
+Locations
+Bookings
+Users and vendors
+Work on schema design, normalization, indexing, and query optimization.
+Ensure data integrity, consistency, and performance.
+SEO & GEO Optimisation:
+Implement SEO best practices to improve search engine visibility.
+Support GEO / local SEO strategies for location-based discovery of hoardings and billboards.
+Optimize page structure, metadata, and performance for better indexing.
+Collaboration & Support:
+Work closely with internal teams including media planning, operations, and business development.
+Debug, troubleshoot, and resolve technical issues.
+Maintain clear documentation of code and development workflows.
+Eligibility Criteria:Education:
+Bachelor’s degree in Computer Science, Information Technology, Software Engineering, or a related field.
+(Final-year students and fresh graduates may also apply.)
+Required Skills:
+Strong understanding of JavaScript (ES6+).
+Experience or working familiarity with Next.js.
+Knowledge of backend development and REST API integration.
+Solid understanding of DBMS concepts and relational databases (PostgreSQL, MySQL, or equivalent).
+Understanding of database design, normalization, indexing, and queries.
+Basic knowledge of authentication and authorization mechanisms.
+Understanding of SEO fundamentals; GEO/local SEO knowledge is an advantage.
+Familiarity with Git or version control systems.
+Preferred Skills:
+Exposure to scalable web platforms or marketplace-style systems.
+Basic understanding of cloud deployment environments.
+Strong analytical, problem-solving, and debugging skills.
+Internship Benefits:
+Hands-on experience working on a live digital platform.
+Exposure to full-stack development within the OOH advertising domain.
+Structured learning and mentorship.
+Opportunity for full-time employment upon successful internship completion.
+Salary revision and role expansion based on performance and business requirements.
+
+`
+},{
+  id: 106,
+  company: "Sasken Fresher Hiring Program",
+  role: "Fresher Hiring Program",
+  hiringLink: "https://forms.office.com/pages/responsepage.aspx?id=vxDiq1cfnk6NTrMghdOpkRvXmlW7JBlLkmFH3OBxlOxUNTRLQlNKSFMwWjcyS09ZWVU5MkNFNUIzNy4u",
+  location: "N/A",
+  Stipend: "N/A",
+  fulldescription:`
+Sasken is inviting applications from fresh engineers who meet the following criteria:
+1. Bachelor in Engineering/Technology (or) Master in Engineering/Technology in Computer Science Engineering (and related branches) or Electronics and Communication Engineering (or) MCA (with BCA/BSc Computer Science) (or) MSc in Computer Science (with BCA/BSc Computer Science)
+2. Marks/CGPA in Highest Qualification: >= 75% (or) 7.5 CGPA on 10.0
+3. Proficient in one Programming Language (C/C++/Java/Python) 
+4. Proficient in Data Structures and Algorithms
+
+Candidates interested in applying are requested to submit details in the below form. After successfully submitting the details, those candidates who are shortlisted will receive an email with further instructions. 
+
+Selection Process
+The selection process consists of the following stages, with screening at each step:
+Written Assessments
+Programming skills (C/C++)
+Coding proficiency
+Aptitude
+Technical Interview
+Conducted for candidates who meet the prescribed cut-off scores in the assessments.
+HR Interview
+Conducted for candidates who successfully clear the technical interview.
+
+Work Location: Sasken sites (currently in Bangalore, Chennai, Kolkata and Pune). 
+Joining: Immediate
+Compensation: Total compensation of ₹5,00,000 per annum (CTC)
+Service Agreement: Selected candidates must sign a service agreement of three (3) years of continuous employment with the company on the date of joining. In the event of non-compliance with the service agreement, the candidate agrees to pay ₹5,00,000 to the company. 
+
+Important Notes
+No Fees or Charges: Sasken does not charge any fees in the form of registration, processing, commission, or referral charges. All employee and external referrals are completely free of cost. Candidates are advised not to make any payments to anyone claiming to offer recruitment-related services on behalf of Sasken.
+No Reimbursement: Sasken will not reimburse any expenses incurred by candidates while attending the selection process, including those who are eventually selected.
+
+`
+},{
+  id: 107,
+  company: "Red Hat",
+  role: "Associate Software Engineer",
+  hiringLink: "https://redhat.wd5.myworkdayjobs.com/jobs/job/Pune/Associate-Software-Engineer_R-053402-1",
+  location: "Pune",
+  Stipend: "N/A",
+  fulldescription:`
+The Red Hat Experience Engineering (XE) team is looking for an Associate Software Engineer to join us in India. In this role, you will contribute value to Red Hat's customers and support associates through the development, testing, and enhancement of both customer-facing and internal systems as part of an agile and globally distributed product development team. This role requires a blended Development and Quality Engineering skill set, with ownership of both feature development and end-to-end testing to ensure high-quality, scalable systems. This is a great opportunity to develop and test applications and refine existing code bases to help scale them across the complexities of deployment.
+
+What will you do: 
+
+Develop new features for diagnostic and support processes available for Red Hat's customers and support associates.
+
+Design, implement, and extend both Red Hat internal and customer facing software tools.
+
+Ability to understand complex requirements and learn new technologies as needed.
+
+Write maintainable code with attention towards clarity and facilitation of collaboration. 
+
+Ensure ongoing quality of the application codebases through, troubleshooting, bug fixes, refactoring and tests.
+
+Collaborate with other developers across multiple departments and technologies for different integration use cases.
+
+Deep dive into performance issues with the intent of discovering their root cause on complex distributed systems deployed on infrastructure.
+
+Own end-to-end validation and testing of applications, including functional, integration, and regression testing.
+
+Document your research and results clearly and concisely, and communicate findings to the team and stakeholders. 
+
+What will you bring:
+
+Bachelor’s degree in computer science or any related field.
+
+Good understanding of computer science fundamentals and data structures.
+
+Motivated to learn new technologies and develop new skills.
+
+Intermediate development and scripting abilities in Python. Experience in developing applications using Python.
+
+Experience working on Linux or UNIX platform.
+
+Familiar with collaborative software development methodologies, tools, and version control.
+
+Understanding of testing concepts, API validation, and automation basics.
+
+Excellent communication and interpersonal skills.
+
+Good to have:
+
+Exposure to AI concepts such as LLMs, Agentic AI, and MCPs.
+
+Prior participation in open source software projects.
+
+Openshift deployment experience.
+
+Experience with Red Hat Enterprise Linux (RHEL).
+
+Experience with continuous integration (CI) and continuous deployment (CD) systems.
+
+Experience working on message-driven architecture.
+
+
+`
 }
 ]
 
