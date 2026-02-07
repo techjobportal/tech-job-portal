@@ -3710,6 +3710,76 @@ Ability to work collaboratively in a team environment and communicate effectivel
 Disclaimer: This job description has been sourced from a public domain and may have been modified by Naukri.com to improve clarity for our users. We encourage job seekers to verify all details directly with the employer via their official channels before applying.
 Role: Back End Developer
 `
+},{
+  id: 118,
+  company: "Wikasta Business and Technical Solutions Pvt Ltd",
+  role: "Software Development Engineer",
+  hiringLink: "https://unstop.com/o/uIA32rm?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  location: "Remote",
+  Stipend: "₹ 4.8 LPA - 8.6 LPA",
+  fulldescription:`
+Key Responsibilities:
+
+Design, develop, and maintain software features and modules
+Write clean, efficient, and well-documented code
+Collaborate with team members to understand requirements and deliver solutions
+Debug, test, and fix issues to ensure high performance and reliability
+Participate in code reviews and follow best practices
+Stay updated with modern technologies and contribute new ideas
+Skills & Qualifications:
+
+Strong understanding of Data Structures, Algorithms, and OOP concepts
+Good knowledge of at least one programming language (Python, Java, C++, or Go)
+Problem-solving mindset and ability to approach challenges logically
+Familiarity with databases (SQL or NoSQL) and basic backend concepts
+Comfort working in Linux/Unix environments and using Git
+Experience with cloud platforms (AWS, GCP, Azure)
+Exposure to containers and orchestration tools
+Understanding of distributed systems or messaging queues
+Knowledge of system design fundamentals
+What You Get:
+
+Hands-on learning and real project ownership
+Guidance from experienced engineers
+Opportunity to build scalable systems and gain end-to-end development experience
+Dynamic and collaborative work environment
+`
+},{
+  id: 119,
+  company: "Sharpsell Technology Solutions Pvt. Ltd.",
+  role: "Junior Product Engineer",
+  hiringLink: "https://unstop.com/o/VkjxyiD?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  location: "Banglore Urban",
+  Stipend: "₹ 6 LPA - 8 LPA",
+  fulldescription:`
+Key Responsibilities:
+
+Assist in developing backend features and services using Python
+Write clean, readable, and maintainable code following best practices
+Apply basic data structures and algorithms to solve programming problems
+Work with relational databases to store, retrieve, and update data
+Learn and use caching systems and message queues as part of backend workflows
+Build and consume REST APIs
+Required Skills & Qualifications:
+
+Good understanding of Python fundamentals
+Basic knowledge of data structures and problem solving
+Familiarity with SQL and relational databases (PostgreSQL/MySQL)
+Familiarity with Git and version control systems
+Understanding of basic backend concepts such as HTTP, APIs, and request–response flow
+Willingness to learn new technologies and adapt quickly
+Good to Have:
+
+Basic exposure to caching concepts or tools like Redis
+Introductory knowledge of message brokers (Kafka, RabbitMQ, etc.)
+Awareness of GenAI concepts or tools (LLMs, APIs) is a plus
+What We Look For:
+
+Strong learning attitude and curiosity
+Logical thinking and problem-solving mindset
+Ability to collaborate effectively in a team environment
+Interest in building real-world backend systems
+`
 }
 ]
 
