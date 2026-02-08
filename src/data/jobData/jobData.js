@@ -3780,6 +3780,84 @@ Logical thinking and problem-solving mindset
 Ability to collaborate effectively in a team environment
 Interest in building real-world backend systems
 `
+},{
+  id: 120,
+  company: "Qualcomm India Private Limited",
+  role: "2026 Campus Hire Engineer SW",
+  hiringLink: "https://careers.qualcomm.com/careers/job/446706882270",
+  location: "N/A",
+  Stipend: "N/A",
+  fulldescription:`
+Job Area : Engineering - Software
+
+Job Location : Hyderabad / Bangalore / Chennai / Noida
+
+We know our employees’ ideas change the world. For more than three decades, we’ve been a global leader in mobile technology, continually pushing the boundaries of what’s possible. Working with customers across industries — from automotive to health care, from smart cities to robotics— we continue to accelerate innovation and unlock new possibilities in a time where everything is connected. By joining the Qualcomm family, you too can bring the future forward faster.
+
+As a software engineer, you will design, develop Software for Qualcomm’s mobile chipsets which are based on cutting edge technology.
+
+Qualcomm is looking for energetic, creative and self-driven engineer to work in ➢ Multimedia Technologies such as Audio and Video codecs, Image Processing, ➢ Wireless Modem Technologies, such as 4G, WiFi, Bluetooth, Self-Organizing Networks. ➢ Platform Level SW, such as, Linux, Android, Windows, Board Support Packages. ➢ IOT Technologies, for Connected Cameras, Smart Assistants, Drones, Virtual Reality, Augmented Reality.
+
+Campus Grads will be working on following areas: • Development of real-time embedded software and device drivers • Mobile SW development for Windows Mobile, Android or Linux • Good understanding of OS concepts, Data structures, etc • C/C++ and object oriented design • Wireless network standards such as CDMA/GSM/UMTS/LTE • Linux/UNIX, Linux Drivers, Linux Kernel Development • Protocols such TCP/UDP/IP/SIP/RTP etc • Multimedia technologies including Audio, Video, Imaging • Excellent analytical and problem solving skills • Ability to collaborate and work in teams. • Good verbal and written communication skill Opportunities include: • SW development for Android, Window Mobile based Embedded Platforms • Multimedia software stack, firmware and driver Development • Wireless Modem and connectivity Software and Firmware Development • Communication protocol stack Software Development • Kernel, BSP and Device Driver Development • Application SW and UI development. • SW Architecture for embedded devices based on Android, Windows. • Design and development based on Object oriented programming.
+
+Minimum Qualifications:
+
+• Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+Education: Masters, Bachelors: Computer Science Engineering, Communication Engineering, ECE,
+
+Applicants: Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail disability-accomodations@qualcomm.com or call Qualcomm's toll-free number found here. Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries).
+
+Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+
+If you would like more information about this role, please contact Qualcomm Careers.
+`
+},{
+  id: 121,
+  company: "FanCode",
+  role: "Software Engineer Internship Backend or Frontend",
+  hiringLink: "https://jobs.lever.co/dreamsports/68bfc55d-e712-4635-a271-d231fb04eead",
+  location: "Mumbai",
+  Stipend: "N/A",
+  fulldescription:`
+Role Overview
+We are looking for a Software Engineer Internship with strong problem-solving abilities and solid computer science fundamentals. This role is designed for candidates who enjoy learning, building software systems, and applying core CS concepts to real-world problems. As an intern, you will work on production systems, collaborate with experienced engineers, and gain exposure to multiple areas of software development. Depending on your interests and team requirements, you may work on web/mobile user interfaces, backend services, or platform and infrastructure components.
+What you'll do:
+Design, develop, and maintain software components and applications
+Apply data structures and algorithms to solve practical engineering problems
+Work on client–server and service-oriented architectures
+Build and integrate features for web-based applications
+Design and use databases, including table schemas and queries
+Write clean, efficient, and maintainable code
+Debug issues, improve performance, and enhance system reliability
+Collaborate with team members across engineering and product
+Required Skills & Qualifications
+Strong problem-solving skills with a good grasp of Data Structures & Algorithms
+Strong computer science fundamentals, including:
+Operating Systems
+Networking
+Databases
+Understanding of web applications and client–server architecture
+Experience with database design, table structures, and query usage
+Exposure to any of the following technologies:
+Frontend: React, modern JavaScript frameworks
+Backend: Node.js, Java-based services, REST APIs
+Mobile: Android (Java/Kotlin), iOS (Swift), React Native.
+Open to new ideas with strong adaptability
+High hunger for learning and willingness to put in hard work
+Ability to take ownership and learn quickly in a fast-paced environment
+Good to Have
+Prior internships, academic projects, or personal projects in Frontend, Backend, or Mobile development
+Exposure to system design basics
+Familiarity with Git or version control systems
+Knowledge of REST APIs or service-based architectures
+What you’ll Gain
+Hands-on experience working on real production systems
+Mentorship from experienced engineers
+Exposure to Frontend, Backend, and Mobile engineering domains
+A strong foundation for a full-time software engineering role
+`
 }
 ]
 
