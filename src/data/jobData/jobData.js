@@ -4035,6 +4035,177 @@ Helped automate provisioning and updates using Terraform + Docker
 
 Worked across the stack in a fast-paced, high-ownership environment
 `
+},{
+  id: 126,
+  company: "Docusign",
+  role: "Software Engineer",
+  hiringLink: "https://careers.docusign.com/jobs/28608",
+  location: "Bangalore",
+  Stipend: "N/A",
+  fulldescription:`
+What you'll do
+
+
+As an engineer on the reporting team, we expect you to have a good understanding of everything data, as well as back-end code development. Your day to day work will involve owning the designing and execution of medium complexity features. This position will demand critical thinking skills, ability to quickly understand existing systems and the ability to work in agile, fast paced environments. The ability to take smart and educated risks is essential to the success of this position. 
+
+ 
+
+This position is an individual contributor role reporting to Senior Manager, Software Engineering.
+
+ 
+
+Responsibility
+
+Own feature delivery end to end from ideation to deployment and monitoring
+
+Participate in the team's on call rotation and help triage alerts and incidents
+
+Review other team member's code and design document
+
+Suggest and own improvement to the system and coding standards
+
+
+Job Designation
+
+
+Hybrid:
+Employee divides their time between in-office and remote work. Access to an office location is required. (Frequency: Minimum 2 days per week; may vary by team but will be weekly in-office expectation)
+
+ 
+
+Positions at Docusign are assigned a job designation of either In Office, Hybrid or Remote and are specific to the role/job. Preferred job designations are not guaranteed when changing positions within Docusign. Docusign reserves the right to change a position's job designation depending on business needs and as permitted by local law.
+
+
+What you bring
+
+
+Basic
+
+Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience
+
+Proficiency in one or more modern programming languages (e.g., Java, C#, Go, Python) and solid computer science fundamentals (data structures, algorithms, system design)
+
+Demonstrated experience developing and delivering production features with high-quality code and reliable tests (unit, component, contract, integration, end-to-end, performance); designs for testability
+
+Experience participating in code reviews and adhering to team guidelines and best practices
+
+Hands-on experience with CI/CD pipelines; able to debug pipeline issues and analyze system logs
+
+Familiarity with public cloud environments (Azure, AWS, or GCP), containers (Docker), and orchestration (Kubernetes)
+
+Experience with monitoring, metrics, and logging; capable of building basic telemetry for features
+
+Ability to participate in on-call using service runbooks/SOPs and perform root cause analysis with minimal guidance
+ 
+
+Preferred
+
+Comfort working across multiple components and with external dependencies in complex environments
+
+Strong communication and collaboration skills; able to work effectively with cross-functional partners
+
+Track record of independently owning and delivering features end-to-end.
+
+Experience authoring and owning testing plans for features and identifying patterns in test failures
+
+Experience contributing to and improving deployment pipelines and test automation systems
+
+Experience designing for scalability, reliability, and performance; writes extensible, shareable code and raises the bar through thoughtful code reviews
+
+Experience defining useful metrics/targets and measurably improving engineering processes and best practices
+
+Exposure to distributed systems, microservices, REST APIs, and/or event-driven architectures
+
+Hands-on experience with relational and NoSQL databases, performance testing, and optimization
+
+Comfortable collaborating in a global, distributed team and working across time zones
+`
+},{
+  id: 127,
+  company: "Cleartrip",
+  role: "SDE 1",
+  hiringLink: "https://docs.google.com/forms/d/e/1FAIpQLScnEj0s2QjjKAPgC0_jC1NaFBa_aqmek1jx9Nqa7TtFQ-UV7A/viewform",
+  location: "N/A",
+  Stipend: "N/A",
+  fulldescription:`
+About the role: 
+
+Cleartrip is currently recruiting for the position of Software Development Engineer I (SDE 1).
+
+Selection Process Details:
+
+1. HackerEarth Assessment: Should your profile be shortlisted, you will receive an official email invitation to complete a mandatory online assessment via the HackerEarth platform. The link provided in this email will be valid for a period of 24 hours only.
+
+2. Virtual Machine Coding Round: Candidates who successfully clear the online assessment will be invited to participate in a virtual machine coding round, which will precede the final in-person interview.
+
+3. In-Person Interview: The final in-person interview.
+
+Kindly ensure your availability for all stages of the selection process. We appreciate your interest in Cleartrip and look forward to reviewing your profile.
+`
+},{
+  id: 128,
+  company: "Coddle Technologies",
+  role: "MERN Stack Developer",
+  hiringLink: "https://www.naukri.com/job-listings-mern-stack-developer-coddle-technologies-private-ltd-kozhikode-bengaluru-0-to-2-years-100226504834",
+  location: "Kozhikode, Bengaluru",
+  Stipend: "N/A",
+  fulldescription:`
+Job Description
+Expertise in React Js and Node JS
+Good to have understanding of state-management patterns such as Redux, Flux or similar
+Experience working with SQL or NoSQL databases
+Experience with Git version control
+Required Candidate profile
+Good communication skills
+Proficient in JavaScript, ES6 and TypeScript
+Experience in RESTful API development
+Understanding in HTML, CSS/SASS
+Education
+Any Graduate in Any Specialization
+Division : Development
+Role: Front End Developer
+Industry Type: Software Product
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+`
+},{
+  id: 129,
+  company: "Talent bee",
+  role: "MERN Stack Developer",
+  hiringLink: "https://www.naukri.com/job-listings-mern-stack-developer-freshers-3-4-lpa-bangalore-talent-bee-bengaluru-0-to-1-years-151225005944",
+  location: "Bangalore",
+  Stipend: "N/A",
+  fulldescription:`
+Job description
+ORG : A Software services and product company founded in 2013
+
+ROLE: Responsible for designing, developing, and implementing frontend code using REACT and NODE.Js
+
+SKILLS:
+
+- React.Js (Very Good)
+- Node.Js (Good)
+- Python (good to have)
+
+Required Candidate profile
+
+- Good coding skills in REACT
+- HTML5, CSS3, TypeScript, and JavaScript.
+- Knowledge of server-side development using Node.js or similar
+- English Fluency
+- B. Tech - Computer Science / Electronics
+Role: Front End Developer
+Industry Type: Industrial Equipment / Machinery
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Bachelor of Technology / Bachelor of Engineering (B.Tech/B.E.) in Electronics and Telecommunication Engineering
+`
 }
 ]
 
