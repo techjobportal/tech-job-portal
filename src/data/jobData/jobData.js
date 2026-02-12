@@ -4206,6 +4206,76 @@ Role Category: Software Development
 Education
 UG: Bachelor of Technology / Bachelor of Engineering (B.Tech/B.E.) in Electronics and Telecommunication Engineering
 `
+},{
+  id: 130,
+  company: "TBD Escholars Books Development PVT LTD",
+  role: "Full-Stack Web Developer",
+  hiringLink: "https://unstop.com/o/bIAX230?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  location: "Delhi",
+  Stipend: "₹ 30K/Month - 35K/Month",
+  fulldescription:`
+Details
+We are looking for a single full-stack web developer who can independently handle an entire web project — from planning to deployment — using modern coding practices and AI tools.
+
+This role is ideal for someone who believes in “vibe coding”: fast iteration, AI-assisted development, clean architecture, and an ownership mindset.
+
+Responsibilities:
+
+Build complete web applications (frontend + backend)
+Translate ideas into working products, not just code
+Use AI tools (ChatGPT, Copilot, etc.) for faster development
+Design and consume APIs
+Handle database design & integration
+Deploy and maintain applications on cloud platforms
+Debug, optimize, and scale existing code
+Take full ownership of assigned projects
+Required Technical Skills
+
+Frontend:
+
+HTML, CSS, JavaScript (strong basics)
+React / Next.js / Vue (any one is fine)
+Responsive UI & component-based design
+Backend:
+
+Node.js / Python (FastAPI, Django) / PHP / similar
+REST APIs (must)
+Authentication & authorization
+Business logic handling
+Database:
+
+SQL (MySQL / PostgreSQL) OR
+NoSQL (MongoDB)
+Schema design & query optimization
+Deployment & DevOps (basic but real):
+
+Git & GitHub
+Hosting on AWS / Vercel / DigitalOcean / similar
+Environment variables, builds, basic CI/CD understanding
+AI & Vibe Coding Expectations:
+
+Uses AI daily for:
+Code generation
+Refactoring
+Debugging
+Documentation
+Knows how to prompt, not just copy-paste
+Can explain why AI-generated code works
+Focus on speed + correctness, not perfection paralysis
+Mindset (Non-Negotiable):
+
+Builder mindset > tutorial mindset
+Can work independently
+Comfortable taking decisions
+Thinks in features, not files
+Honest about limitations (huge plus)
+Nice to Have (Not Mandatory):
+
+Experience with automation / AI APIs
+SaaS or startup project experience
+Stripe / Razorpay / payment integrations
+Role-based dashboards (admin/user panels)
+`
 }
 ]
 
