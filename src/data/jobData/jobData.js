@@ -3980,6 +3980,26 @@ If you would like more information about this role, please contact Qualcomm Care
   fulldescription:`
 
 `
+},{
+  id: 138,
+  company: "Amazon",
+  role: "Software Dev Engineer I",
+  hiringLink: "https://www.amazon.jobs/en/jobs/2935068/software-dev-engineer-i-amazon-university-talent-acquisition",
+  location: "N/A",
+  Stipend: "N/A",
+  fulldescription:`
+N/A
+`
+},{
+  id: 139,
+  company: "Beeflow data Technologies",
+  role: "Junior Software Developer",
+  hiringLink: "https://unstop.com/jobs/junior-software-developer-beeflow-data-technologies-1641476?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+  location: "N/A",
+  Stipend: "N/A",
+  fulldescription:`
+N/A
+`
 }
 ]
 
