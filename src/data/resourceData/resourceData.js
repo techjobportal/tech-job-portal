@@ -46,14 +46,15 @@ const resourceData = [
     link: "https://topmate.io/meet_g/1850885",
     image: sql0to100
   },
+  // {
+  //   id: 2,
+  //   title: "List of Companies hiring freshers offcampus",
+  //   description: "Curated list of companies actively hiring fresh graduates off-campus",
+  //   price: "Free",
+  //   link: "https://topmate.io/meet_g/1850858",
+  //   image: fresherHiring
+  // },
   {
-    id: 2,
-    title: "List of Companies hiring freshers offcampus",
-    description: "Curated list of companies actively hiring fresh graduates off-campus",
-    price: "Free",
-    link: "https://topmate.io/meet_g/1850858",
-    image: fresherHiring
-  },{
     id:34,
     title: "2000+ HR emails & Famous IT companies emails",
     description:"This includes combined 2000+ emails of HR and IT companies",

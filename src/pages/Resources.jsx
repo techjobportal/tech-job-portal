@@ -10,7 +10,7 @@ function Resources() {
   const [isDeleting, setIsDeleting] = useState(false);
 
   // Priority resource IDs that should always appear first
-  const priorityIds = [22, 2, 34];
+  const priorityIds = [22, 2, 34]; // 22,2,34
 
   // Shuffle array function using Fisher-Yates algorithm
   const shuffleArray = (array) => {
