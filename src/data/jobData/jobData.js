@@ -3898,130 +3898,130 @@ If you would like more information about this role, please contact Qualcomm Care
   Stipend: "N/A",
   fulldescription:`
 
-`
-},{
-  id: 130,
-  company: "Flightindeed",
-  role: "Software Development Engineer",
-  hiringLink: "https://unstop.com/o/yIM7R5T?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
-  location: "South Delhi",
-  Stipend: "₹ 20K/Month - 50K/Month",
-  fulldescription:`
+`}
+// },{
+//   id: 130,
+//   company: "Flightindeed",
+//   role: "Software Development Engineer",
+//   hiringLink: "https://unstop.com/o/yIM7R5T?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+//   location: "South Delhi",
+//   Stipend: "₹ 20K/Month - 50K/Month",
+//   fulldescription:`
 
-`
-},{
-  id: 131,
-  company: "Grid Dynamics",
-  role: "Java Backend Developer",
-  hiringLink: "https://www.naukri.com/job-listings-java-backend-developer-grid-dynamics-bengaluru-0-to-1-years-120226500586",
-  location: "N/A",
-  Stipend: "N/A",
-  fulldescription:`
+// `
+// },{
+//   id: 131,
+//   company: "Grid Dynamics",
+//   role: "Java Backend Developer",
+//   hiringLink: "https://www.naukri.com/job-listings-java-backend-developer-grid-dynamics-bengaluru-0-to-1-years-120226500586",
+//   location: "N/A",
+//   Stipend: "N/A",
+//   fulldescription:`
 
-`
-},{
-  id: 132,
-  company: "Influsser",
-  role: "Full Stack Developer Wordpress and Shopify",
-  hiringLink: "https://unstop.com/o/NfeSZLY?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
-  location: "Greater Noida",
-  Stipend: "N/A",
-  fulldescription:`
+// `
+// },{
+//   id: 132,
+//   company: "Influsser",
+//   role: "Full Stack Developer Wordpress and Shopify",
+//   hiringLink: "https://unstop.com/o/NfeSZLY?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+//   location: "Greater Noida",
+//   Stipend: "N/A",
+//   fulldescription:`
 
 
-`
-},{
-  id: 133,
-  company: "TBD Escholars Books Development PVT LTD",
-  role: "Full-Stack Web Developer",
-  hiringLink: "https://unstop.com/o/bIAX230?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
-  location: "Delhi",
-  Stipend: "₹ 30K/Month - 35K/Month",
-  fulldescription:`
+// `
+// },{
+//   id: 133,
+//   company: "TBD Escholars Books Development PVT LTD",
+//   role: "Full-Stack Web Developer",
+//   hiringLink: "https://unstop.com/o/bIAX230?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+//   location: "Delhi",
+//   Stipend: "₹ 30K/Month - 35K/Month",
+//   fulldescription:`
 
-`
-},{
-  id: 134,
-  company: "Concentrix",
-  role: "Mass hiring",
-  hiringLink: "https://concentrix.myamcat.com/register?data=zfmPuUF9UxJRR0maCTAXsacw8z2SCN9CHKUEKlBxfKKuOiCtWiv9x2nQTjNAj9LSeNqPICO7o0HQzAYmoS6GUA%3D%3D&utm_source=sp_auto_dm&utm_referrer=sp_auto_dm&fbclid=PAVERTVgP7hU1leHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaekX0krHqbkaZll-wPhwfnT4nqHrcWpbM6bPEnU95lhsrex9CWRvSeI3A3K2g_aem_Qb8m2FR1FK2KzSS4VcVvOQ",
-  location: "N/A",
-  Stipend: "N/A",
-  fulldescription:`
+// `
+// },{
+//   id: 134,
+//   company: "Concentrix",
+//   role: "Mass hiring",
+//   hiringLink: "https://concentrix.myamcat.com/register?data=zfmPuUF9UxJRR0maCTAXsacw8z2SCN9CHKUEKlBxfKKuOiCtWiv9x2nQTjNAj9LSeNqPICO7o0HQzAYmoS6GUA%3D%3D&utm_source=sp_auto_dm&utm_referrer=sp_auto_dm&fbclid=PAVERTVgP7hU1leHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaekX0krHqbkaZll-wPhwfnT4nqHrcWpbM6bPEnU95lhsrex9CWRvSeI3A3K2g_aem_Qb8m2FR1FK2KzSS4VcVvOQ",
+//   location: "N/A",
+//   Stipend: "N/A",
+//   fulldescription:`
 
-`
-},{
-  id: 135,
-  company: "American Express",
-  role: "Apprentice",
-  hiringLink: "https://aexp.eightfold.ai/careers/job/39996686?hl=en",
-  location: "Hybrid",
-  Stipend: "N/A",
-  fulldescription:`
+// `
+// },{
+//   id: 135,
+//   company: "American Express",
+//   role: "Apprentice",
+//   hiringLink: "https://aexp.eightfold.ai/careers/job/39996686?hl=en",
+//   location: "Hybrid",
+//   Stipend: "N/A",
+//   fulldescription:`
 
-`
-},{
-  id: 136,
-  company: "Blubridge",
-  role: "Full Stack Developer",
-  hiringLink: "https://www.naukri.com/job-listings-full-stack-developer-freshers-blubridge-chennai-0-to-1-years-010725029871",
-  location: "Chennai",
-  Stipend: "N/A",
-  fulldescription:`
+// `
+// },{
+//   id: 136,
+//   company: "Blubridge",
+//   role: "Full Stack Developer",
+//   hiringLink: "https://www.naukri.com/job-listings-full-stack-developer-freshers-blubridge-chennai-0-to-1-years-010725029871",
+//   location: "Chennai",
+//   Stipend: "N/A",
+//   fulldescription:`
 
-`
-},{
-  id: 137,
-  company: "ValuePoint",
-  role: "Associate Technical Consultant",
-  hiringLink: "https://www.naukri.com/job-listings-associate-technical-consultant-value-point-systems-mumbai-0-to-3-years-130226500166",
-  location: "Mumbai",
-  Stipend: "N/A",
-  fulldescription:`
+// `
+// },{
+//   id: 137,
+//   company: "ValuePoint",
+//   role: "Associate Technical Consultant",
+//   hiringLink: "https://www.naukri.com/job-listings-associate-technical-consultant-value-point-systems-mumbai-0-to-3-years-130226500166",
+//   location: "Mumbai",
+//   Stipend: "N/A",
+//   fulldescription:`
 
-`
-},{
-  id: 138,
-  company: "Deloitte",
-  role: "Azure or AWS DevOps Engineer  Analyst",
-  hiringLink: "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH26-Infrastructure-Azure-AWS-DevOps-Engineer-Analyst-Hyderabad/319733",
-  location: "Hyderabad",
-  Stipend: "N/A",
-  fulldescription:`
-For more details, Visit Official Page by Clicking on career page link above
-  `
-},{
-  id: 139,
-  company: "Beeflow data Technologies",
-  role: "Junior Software Developer",
-  hiringLink: "https://unstop.com/jobs/junior-software-developer-beeflow-data-technologies-1641476?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
-  location: "N/A",
-  Stipend: "N/A",
-  fulldescription:`
-For more details, Visit Official Page by Clicking on career page link above
-`
-},{
-  id: 140,
-  company: "Kukbit SL",
-  role: "Java Development Internship",
-  hiringLink: "https://unstop.com/o/9p6zKvc?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
-  location: "N/A",
-  Stipend: "₹ 12K/Month",
-  fulldescription:`
-For more details, Visit Official Page by Clicking on career page link above
-`
-},{
-  id: 141,
-  company: "Suminno",
-  role: "Junior Flutter App Developer Internship",
-  hiringLink: "https://unstop.com/o/ZNO64uE?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
-  location: "Jaipur",
-  Stipend: "8k/month",
-  fulldescription:`
-For more details, Visit Official Page by Clicking on career page link above
+// `
+// },{
+//   id: 138,
+//   company: "Deloitte",
+//   role: "Azure or AWS DevOps Engineer  Analyst",
+//   hiringLink: "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH26-Infrastructure-Azure-AWS-DevOps-Engineer-Analyst-Hyderabad/319733",
+//   location: "Hyderabad",
+//   Stipend: "N/A",
+//   fulldescription:`
+// For more details, Visit Official Page by Clicking on career page link above
+//   `
+// },{
+//   id: 139,
+//   company: "Beeflow data Technologies",
+//   role: "Junior Software Developer",
+//   hiringLink: "https://unstop.com/jobs/junior-software-developer-beeflow-data-technologies-1641476?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Jobs",
+//   location: "N/A",
+//   Stipend: "N/A",
+//   fulldescription:`
+// For more details, Visit Official Page by Clicking on career page link above
+// `
+// },{
+//   id: 140,
+//   company: "Kukbit SL",
+//   role: "Java Development Internship",
+//   hiringLink: "https://unstop.com/o/9p6zKvc?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+//   location: "N/A",
+//   Stipend: "₹ 12K/Month",
+//   fulldescription:`
+// For more details, Visit Official Page by Clicking on career page link above
+// `
+// },{
+//   id: 141,
+//   company: "Suminno",
+//   role: "Junior Flutter App Developer Internship",
+//   hiringLink: "https://unstop.com/o/ZNO64uE?lb=vhj6xFV&utm_medium=Share&utm_source=meetson4554&utm_campaign=Internships",
+//   location: "Jaipur",
+//   Stipend: "8k/month",
+//   fulldescription:`
+// For more details, Visit Official Page by Clicking on career page link above
 
-`
-}
+// `
+// }
 ]
 
 export default companiesData
