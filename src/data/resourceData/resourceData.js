@@ -42,7 +42,7 @@ const resourceData = [
     id: 22,
     title: "SQL Beginner to Advanced (0 - 100)",
     description: "Complete SQL learning roadmap from basics to advanced concepts",
-    price: "Free",
+    price: "₹9",
     link: "https://topmate.io/meet_g/1850885",
     image: sql0to100,
     isPopular: false,
@@ -50,14 +50,14 @@ const resourceData = [
     isPlacementFocused: false,
     isAdvancedLevel: false
   },
-  // {
-  //   id: 2,
-  //   title: "List of Companies hiring freshers offcampus",
-  //   description: "Curated list of companies actively hiring fresh graduates off-campus",
-  //   price: "Free",
-  //   link: "https://topmate.io/meet_g/1850858",
-  //   image: fresherHiring
-  // },
+  // // {
+  // //   id: 2,
+  // //   title: "List of Companies hiring freshers offcampus",
+  // //   description: "Curated list of companies actively hiring fresh graduates off-campus",
+  // //   price: "Free",
+  // //   link: "https://topmate.io/meet_g/1850858",
+  // //   image: fresherHiring
+  // // },
   {
     id:34,isPopular: false,
     isBestSeller: false,
@@ -65,10 +65,11 @@ const resourceData = [
     isAdvancedLevel: false,
     title: "2000+ HR emails & Famous IT companies emails",
     description:"This includes combined 2000+ emails of HR and IT companies",
-    price:"₹29",
+    price:"₹19",
     link:"https://topmate.io/meet_g/1870617",
     image: hremails
-  },{
+  }
+  ,{
     id: 0,isPopular: false,
     isBestSeller: false,
     isPlacementFocused: false,
@@ -90,28 +91,29 @@ const resourceData = [
     link: "https://topmate.io/meet_g/1850861",
     image: promiseVsAsync
   },
-  {
-    id: 3,isPopular: false,
-    isBestSeller: false,
-    isPlacementFocused: false,
-    isAdvancedLevel: false,
-    title: "JavaScript Cheatsheet 20+ Pages",
-    description: "Extensive JavaScript reference guide covering core concepts and syntax",
-    price: "Free",
-    link: "https://topmate.io/meet_g/1850857",
-    image: jsCheatsheet
-  },
-  {
-    id: 4,isPopular: false,
-    isBestSeller: false,
-    isPlacementFocused: false,
-    isAdvancedLevel: false,
-    title: "Java Cheatsheet",
-    description: "Quick reference guide for Java programming language fundamentals",
-    price: "Free",
-    link: "https://topmate.io/meet_g/1850855",
-    image: javaCheatsheet
-  },
+  // {
+  //   id: 3,isPopular: false,
+  //   isBestSeller: false,
+  //   isPlacementFocused: false,
+  //   isAdvancedLevel: false,
+  //   title: "JavaScript Cheatsheet 20+ Pages",
+  //   description: "Extensive JavaScript reference guide covering core concepts and syntax",
+  //   price: "Free",
+  //   link: "https://topmate.io/meet_g/1850857",
+  //   image: jsCheatsheet
+  // },
+  // {
+  //   id: 4,isPopular: false,
+  //   isBestSeller: false,
+  //   isPlacementFocused: false,
+  //   isAdvancedLevel: false,
+  //   title: "Java Cheatsheet",
+  //   description: "Quick reference guide for Java programming language fundamentals",
+  //   price: "Free",
+  //   link: "https://topmate.io/meet_g/1850855",
+  //   image: javaCheatsheet
+  // }
+  ,
   {
     id: 5,isPopular: false,
     isBestSeller: false,
@@ -122,7 +124,8 @@ const resourceData = [
     price: "Free",
     link: "https://topmate.io/meet_g/1850845",
     image: mernRoadmap
-  },
+  }
+  ,
   {
     id: 6,isPopular: false,
     isBestSeller: false,
@@ -141,16 +144,17 @@ const resourceData = [
     isAdvancedLevel: false,
     title: "OOPS Concept in Java – Complete Notes + Code",
     description: "Comprehensive guide to Object-Oriented Programming concepts with practical examples",
-    price: "Free",
+    price: "₹9",
     link: "https://topmate.io/meet_g/1850830",
     image: oopsConcept
-  },
+  }
+  ,
   {
     id: 8,isPopular: false,
     isBestSeller: false,
     isPlacementFocused: false,
     isAdvancedLevel: false,
-    title: "20 JavaScript APIs",
+    title: "30+ JavaScript APIs",
     description: "Collection of 20 essential JavaScript APIs every developer should know",
     price: "Free",
     link: "https://topmate.io/meet_g/1850825",
@@ -166,7 +170,8 @@ const resourceData = [
     price: "Free",
     link: "https://topmate.io/meet_g/1850823",
     image: htmlCssInterview
-  },
+  }
+  ,
   {
     id: 10,isPopular: false,
     isBestSeller: false,
@@ -178,17 +183,18 @@ const resourceData = [
     link: "https://topmate.io/meet_g/1850815",
     image: cssCheatsheet
   },
-  {
-    id: 11,isPopular: false,
-    isBestSeller: false,
-    isPlacementFocused: true,
-    isAdvancedLevel: false,
-    title: "100 Must Do Leetcode Problems",
-    description: "Curated list of essential LeetCode problems for interview preparation",
-    price: "Free",
-    link: "https://topmate.io/meet_g/1850812",
-    image: mustDoLeetcode
-  },
+  // // {
+  // //   id: 11,isPopular: false,
+  // //   isBestSeller: false,
+  // //   isPlacementFocused: true,
+  // //   isAdvancedLevel: false,
+  // //   title: "100 Must Do Leetcode Problems",
+  // //   description: "Curated list of essential LeetCode problems for interview preparation",
+  // //   price: "Free",
+  // //   link: "https://topmate.io/meet_g/1850812",
+  // //   image: mustDoLeetcode
+  // // }
+,
   {
     id: 12,isPopular: false,
     isBestSeller: false,
@@ -199,7 +205,8 @@ const resourceData = [
     price: "Free",
     link: "https://topmate.io/meet_g/1850801",
     image: codingPrinciples
-  },
+  }
+  ,
   {
     id: 13,isPopular: false,
     isBestSeller: true,
@@ -218,10 +225,11 @@ const resourceData = [
     isAdvancedLevel: false,
     title: "Pentest CheatSheets",
     description: "Essential penetration testing commands and techniques reference",
-    price: "₹9",
+    price: "Free",
     link: "https://topmate.io/meet_g/1851077",
     image: pentest
-  },
+  }
+  ,
   {
     id: 15,isPopular: false,
     isBestSeller: false,
@@ -229,10 +237,11 @@ const resourceData = [
     isAdvancedLevel: false,
     title: "Oracle - DSA Interview Question with Solutions",
     description: "Data structures and algorithms questions specifically for Oracle interviews",
-    price: "₹9",
+    price: "Free",
     link: "https://topmate.io/meet_g/1851069",
     image: oracleDsa
-  },
+  }
+  ,
   {
     id: 16,isPopular: false,
     isBestSeller: false,
@@ -240,22 +249,22 @@ const resourceData = [
     isAdvancedLevel: false,
     title: "Redis Cheatsheet",
     description: "Quick reference guide for Redis commands and data structures",
-    price: "₹9",
+    price: "Free",
     link: "https://topmate.io/meet_g/1851059",
     image: redisCheatsheet
-  },
-  {
+  }
+  ,{
     id: 17,isPopular: false,
     isBestSeller: false,
     isPlacementFocused: true,
     isAdvancedLevel: false,
-    title: "15+ CompanyWise Leetcode",
+    title: "15+ Top Company wise Leetcode Questions",
     description: "LeetCode problems organized by top tech companies",
     price: "₹29",
     link: "https://topmate.io/meet_g/1851044",
     image: companyWise
-  },
-  {
+  }
+  ,{
     id: 18,isPopular: false,
     isBestSeller: false,
     isPlacementFocused: true,
@@ -266,17 +275,18 @@ const resourceData = [
     link: "https://topmate.io/meet_g/1851020",
     image: dsaQuestions
   },
-  {
-    id: 19,isPopular: false,
-    isBestSeller: false,
-    isPlacementFocused: false,
-    isAdvancedLevel: true,
-    title: "SQL Cheatsheet",
-    description: "Complete SQL commands and query reference guide",
-    price: "₹9",
-    link: "https://topmate.io/meet_g/1850972",
-    image: sqlCheatsheet
-  },
+  // {
+  //   id: 19,isPopular: false,
+  //   isBestSeller: false,
+  //   isPlacementFocused: false,
+  //   isAdvancedLevel: true,
+  //   title: "SQL Cheatsheet",
+  //   description: "Complete SQL commands and query reference guide",
+  //   price: "₹9",
+  //   link: "https://topmate.io/meet_g/1850972",
+  //   image: sqlCheatsheet
+  // }
+  ,
   {
     id: 20,isPopular: true,
     isBestSeller: false,
@@ -298,7 +308,8 @@ const resourceData = [
     price: "Free",
     link: "https://topmate.io/meet_g/1850892",
     image: playwright
-  },
+  }
+  ,
   
   {
     id: 23,isPopular: false,
@@ -338,23 +349,23 @@ const resourceData = [
     isBestSeller: false,
     isPlacementFocused: true,
     isAdvancedLevel: false,
-    title: "React.js 0 - Interview Resources (8 PDFs)",
+    title: "100+ React Interview Questions + Guide (8 PDFs)",
     description: "Complete React.js interview preparation bundle with 8 comprehensive PDFs",
-    price: "₹39",
+    price: "₹29",
     link: "https://topmate.io/meet_g/1851224",
     image: reactInterview8PDF
   },
-  {
-    id: 27,isPopular: false,
-    isBestSeller: false,
-    isPlacementFocused: false,
-    isAdvancedLevel: false,
-    title: "Top 50 React Interview Questions",
-    description: "Most commonly asked React interview questions with detailed answers",
-    price: "₹29",
-    link: "https://topmate.io/meet_g/1851189",
-    image: top50React
-  },
+  // {
+  //   id: 27,isPopular: false,
+  //   isBestSeller: false,
+  //   isPlacementFocused: false,
+  //   isAdvancedLevel: false,
+  //   title: "Top 50 React Interview Questions",
+  //   description: "Most commonly asked React interview questions with detailed answers",
+  //   price: "₹29",
+  //   link: "https://topmate.io/meet_g/1851189",
+  //   image: top50React
+  // },
   {
     id: 28,isPopular: false,
     isBestSeller: false,
@@ -365,7 +376,8 @@ const resourceData = [
     price: "₹9",
     link: "https://topmate.io/meet_g/1851156",
     image: jsCheatsheet50
-  },
+  }
+  ,
   {
     id: 29,isPopular: false,
     isBestSeller: false,
@@ -373,7 +385,7 @@ const resourceData = [
     isAdvancedLevel: false,
     title: "100+ JavaScript Functions & Methods Cheatsheet",
     description: "Comprehensive collection of JavaScript built-in functions and methods",
-    price: "₹9",
+    price: "Free",
     link: "https://topmate.io/meet_g/1851134",
     image: jsMethods
   },
@@ -387,7 +399,8 @@ const resourceData = [
     price: "₹12",
     link: "https://topmate.io/meet_g/1851107",
     image: js100Interview
-  },
+  }
+  ,
   {
     id: 31,isPopular: false,
     isBestSeller: false,
@@ -421,17 +434,17 @@ const resourceData = [
     link: "https://topmate.io/meet_g/1851084",
     image: node40Interview
   },
-  {
-    id: 35,isPopular: false,
-    isBestSeller: false,
-    isPlacementFocused: true,
-    isAdvancedLevel: false,
-    title: "System Desgin Handbook 70+ pages",
-    description: "Essential System Desgin questions with detailed explanations",
-    price: "₹19",
-    link: "https://topmate.io/meet_g/1891515",
-    image: systemDesign
-  }
+  // {
+  //   id: 35,isPopular: false,
+  //   isBestSeller: false,
+  //   isPlacementFocused: true,
+  //   isAdvancedLevel: false,
+  //   title: "System Desgin Handbook 70+ pages",
+  //   description: "Essential System Desgin questions with detailed explanations",
+  //   price: "₹19",
+  //   link: "https://topmate.io/meet_g/1891515",
+  //   image: systemDesign
+  // }
 ];
 
 export default resourceData;
