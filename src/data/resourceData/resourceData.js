@@ -61,7 +61,7 @@ const resourceData = [
   // // },
   {
     id:34,isPopular: false,
-    isBestSeller: false,
+    isBestSeller: true,
     isPlacementFocused: true,
     isAdvancedLevel: false,
     title: "2000+ HR emails & Famous IT companies emails",
@@ -255,7 +255,7 @@ const resourceData = [
     image: redisCheatsheet
   }
   ,{
-    id: 17,isPopular: false,
+    id: 17,isPopular: true,
     isBestSeller: false,
     isPlacementFocused: true,
     isAdvancedLevel: false,
@@ -337,8 +337,8 @@ const resourceData = [
   {
     id: 25,isPopular: false,
     isBestSeller: false,
-    isPlacementFocused: false,
-    isAdvancedLevel: false,
+    isPlacementFocused: true,
+    isAdvancedLevel: true,
     title: "Master the MERN Stack 270+ pages",
     description: "In-depth MERN stack guide with extensive coverage and examples",
     price: "₹29",
@@ -349,7 +349,7 @@ const resourceData = [
     id: 26,isPopular: false,
     isBestSeller: false,
     isPlacementFocused: true,
-    isAdvancedLevel: false,
+    isAdvancedLevel: true,
     title: "100+ React Interview Questions + Guide (8 PDFs)",
     description: "Complete React.js interview preparation bundle with 8 comprehensive PDFs",
     price: "₹29",
@@ -370,7 +370,7 @@ const resourceData = [
   {
     id: 28,isPopular: false,
     isBestSeller: false,
-    isPlacementFocused: false,
+    isPlacementFocused: true,
     isAdvancedLevel: false,
     title: "50+ Page Complete JS Cheatsheet",
     description: "Extensive JavaScript reference covering all core concepts and features",
@@ -382,7 +382,7 @@ const resourceData = [
   {
     id: 29,isPopular: false,
     isBestSeller: false,
-    isPlacementFocused: false,
+    isPlacementFocused: true,
     isAdvancedLevel: false,
     title: "100+ JavaScript Functions & Methods Cheatsheet",
     description: "Comprehensive collection of JavaScript built-in functions and methods",
@@ -416,7 +416,7 @@ const resourceData = [
   {
     id: 32,isPopular: false,
     isBestSeller: false,
-    isPlacementFocused: false,
+    isPlacementFocused: true,
     isAdvancedLevel: false,
     title: "Node.js CheatSheet - 0 to Deployment",
     description: "Complete Node.js guide from development to production deployment",
@@ -454,7 +454,7 @@ const resourceData = [
     image: HRques,
     isPopular: false,
     isBestSeller: false,
-    isPlacementFocused: false,
+    isPlacementFocused: true,
     isAdvancedLevel: false
   },{
     id:37,
