@@ -32,7 +32,7 @@ import js100Interview from '../../assets/100jsinterview.png';
 import java150Interview from '../../assets/150java.png';
 import nodeDeployment from '../../assets/0-100node.js.png';
 import node40Interview from '../../assets/40+ node js.png';
-import resumeTips from '../../assets/resumetips.png';
+import resumeTips from '../../assets/resumetips.jpg';
 import hremails from '../../assets/hremails.png';
 import systemDesign from '../../assets/systemDesign.png';
 import HRques from '../../assets/HRques.png';
