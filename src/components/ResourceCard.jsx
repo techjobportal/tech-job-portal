@@ -129,11 +129,14 @@ function ResourceCard({ resource, isMobile = false }) {
     <div className="flex flex-col bg-amber-50 hover:bg-amber-100 rounded-lg border border-amber-200 overflow-hidden shadow-sm hover:shadow-md relative">
       <div className="w-full aspect-square bg-gray-100">
         <img
-          src={resource.image}
-          alt={resource.title}
-          className="w-full h-full object-cover"
-          loading="lazy"
-        />
+  src={resource.image}
+  alt={resource.title}
+  width="200"
+  height="200"
+  loading="lazy"
+  decoding="async"
+  className="w-full h-full object-cover"
+/>
       </div>
 
       <div className="p-4 flex flex-col flex-grow">
