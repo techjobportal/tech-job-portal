@@ -66,6 +66,7 @@ function ResourceCard({ resource, isMobile = false }) {
           src={resource.image}
           alt={resource.title}
           className="w-24 h-24 object-cover rounded-lg"
+          loading="lazy" 
         />
 
         <div className="flex-grow">
@@ -131,6 +132,7 @@ function ResourceCard({ resource, isMobile = false }) {
           src={resource.image}
           alt={resource.title}
           className="w-full h-full object-cover"
+          loading="lazy"
         />
       </div>
 
