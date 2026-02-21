@@ -17,7 +17,7 @@ import gitCheatsheet from '../../assets/git_cheatsheet.avif';
 import playwright from '../../assets/playwright.avif';
 import sql0to100 from '../../assets/sql0to100.avif';
 import nodeCheatsheet from '../../assets/nodejscheatsheet.avif';
-import frontendNotes from '../../assets/26_UI.avif';
+import frontendNotes from '../../assets/26_Ui.avif';
 import mernMaster from '../../assets/mernmaster.avif';
 import reactInterview8PDF from '../../assets/40_react.avif';
 import jsCheatsheet50 from '../../assets/55page_js.avif';
