@@ -1,9 +1,9 @@
 // At the top of your file - Image Imports
 import reactVsNext from '../../assets/reactnext.avif';
 import promiseVsAsync from '../../assets/promise_async.avif';
-import mernRoadmap from '../../assets/MERN roadmap.avif';
-import mongoCheatsheet from '../../assets/mongodb cheatsheet.avif';
-import oopsConcept from '../../assets/OOPS Concept in java.avif';
+import mernRoadmap from '../../assets/mern_roadmap.avif';
+import mongoCheatsheet from '../../assets/mongodb_cheatsheet.avif';
+import oopsConcept from '../../assets/java_oops.avif';
 import jsApis from '../../assets/20JSapis.avif';
 import htmlCssInterview from '../../assets/htmlcssinterviewques.avif';
 import cssCheatsheet from '../../assets/csscheatsheet.avif';
